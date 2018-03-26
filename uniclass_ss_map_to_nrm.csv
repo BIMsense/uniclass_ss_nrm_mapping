@@ -1,0 +1,1778 @@
+Ss_15_10_30_25,Earthworks excavating systems,0.4.2,Soil stabilisation measures,,
+Ss_15_10_30_25,Earthworks excavating systems,0.1.1,Toxic or hazardous material removal,,
+Ss_15_10_30_25,Earthworks excavating systems,1.1.4,Basement excavation,,
+Ss_15_10_30_25,Earthworks excavating systems,1.1.5,Basement retaining walls,,
+Ss_15_10_30_25,Earthworks excavating systems,8.2.1,"Roads, paths and pavings",,
+Ss_15_10_30_25,Earthworks excavating systems,0.1.2,Contaminated land,,
+Ss_15_10_30_25,Earthworks excavating systems,1.1.1,Standard foundations,default,
+Ss_15_10_30_25,Earthworks excavating systems,1.1.2,Specialist foundations,,
+Ss_15_10_30_25,Earthworks excavating systems,8.1.2,Preparatory groundworks,,
+Ss_15_10_30_27,Earthworks filling systems,1.1.4,Basement excavation,,
+Ss_15_10_30_27,Earthworks filling systems,1.1.5,Basement retaining walls,,
+Ss_15_10_30_27,Earthworks filling systems,8.2.1,"Roads, paths and pavings",default,
+Ss_15_10_30_27,Earthworks filling systems,8.1.2,Preparatory groundworks,,
+Ss_15_10_30_27,Earthworks filling systems,8.3.2,External planting,,
+Ss_15_10_30_29,Earthworks filling systems around trees,4.1.7,Internal planting,,
+Ss_15_10_30_29,Earthworks filling systems around trees,8.3.2,External planting,default,
+Ss_15_10_30_31,Earthworks filling systems behind retaining walls,1.1.5,Basement retaining walls,default,
+Ss_15_10_30_31,Earthworks filling systems behind retaining walls,8.4.3,Retaining walls,,
+Ss_15_10_30_65,Puddled clay lining systems,8.6.2,Ancillary drainage systems,,
+Ss_15_10_30_65,Puddled clay lining systems,8.6.4,Land drainage,,
+Ss_15_10_30_65,Puddled clay lining systems,8.5.2,Ornamental features,default,
+Ss_15_10_30_65,Puddled clay lining systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_15_10_30_90,Topsoil filling systems,4.1.7,Internal planting,,
+Ss_15_10_30_90,Topsoil filling systems,8.3.2,External planting,default,
+Ss_15_10_33_34,Ground gas collection and venting systems,0.4.3,Ground gas venting measures,default,unique
+Ss_15_10_80_33,Erosion control systems,0.4.2,Soil stabilisation measures,default,
+Ss_15_10_80_33,Erosion control systems,8.3.1,Seeding and turfing,,
+Ss_15_10_80_80,Soil nailing systems,0.4.2,Soil stabilisation measures,default,unique
+Ss_15_30_15_15,Concrete cleaning systems,7.5.1,Cleaning,default,unique
+Ss_15_30_15_50,Masonry cleaning systems,7.5.1,Cleaning,default,unique
+Ss_15_30_15_65,Preliminary concrete cleaning systems,7.5.1,Cleaning,default,unique
+Ss_15_30_15_66,Preliminary masonry cleaning systems,7.5.1,Cleaning,default,unique
+Ss_15_30_17_10,Bonded steel plate repair systems,7.6.2,Concrete repairs,default,
+Ss_15_30_17_10,Bonded steel plate repair systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_17_12,Concrete crack repair or filling systems,7.6.2,Concrete repairs,default,unique
+Ss_15_30_17_14,Concrete mortar or overlay systems,7.6.2,Concrete repairs,default,unique
+Ss_15_30_17_16,Concrete protective coating systems,7.5.2,Protective coatings,default,unique
+Ss_15_30_17_18,Concrete repair systems,7.6.2,Concrete repairs,default,unique
+Ss_15_30_32_05,Beetle eradication systems,7.3.2,Fungus/beetle eradication,default,unique
+Ss_15_30_32_15,Combined fungus and beetle treatment systems,7.3.2,Fungus/beetle eradication,default,unique
+Ss_15_30_32_50,Masonry fungus treatment systems,7.3.2,Fungus/beetle eradication,default,unique
+Ss_15_30_32_90,Timber fungus treatment systems,7.3.2,Fungus/beetle eradication,default,unique
+Ss_15_30_50_50,Masonry repair systems,7.6.1,Masonry repairs,default,
+Ss_15_30_50_50,Masonry repair systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_50_53,Mortar joint repair systems,7.6.1,Masonry repairs,default,unique
+Ss_15_30_50_55,Mortar repointing systems,7.6.1,Masonry repairs,default,unique
+Ss_15_30_90_82,Timber end lap repair systems,7.6.4,Timber repairs,default,
+Ss_15_30_90_82,Timber end lap repair systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_90_84,Timber joint strengthening systems,7.6.4,Timber repairs,default,
+Ss_15_30_90_84,Timber joint strengthening systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_90_86,Timber section repair external splice systems,7.6.4,Timber repairs,default,
+Ss_15_30_90_86,Timber section repair external splice systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_90_88,Timber section repair internal reinforcement systems,7.6.4,Timber repairs,default,
+Ss_15_30_90_88,Timber section repair internal reinforcement systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_90_90,Timber section strengthening external reinforcement systems,7.6.4,Timber repairs,default,
+Ss_15_30_90_90,Timber section strengthening external reinforcement systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_30_90_92,Timber section strengthening internal reinforcement systems,7.6.4,Timber repairs,default,
+Ss_15_30_90_92,Timber section strengthening internal reinforcement systems,7.1.1,Minor demolition and alteration works,,
+Ss_15_95_20_30,Flying shores systems,7.4.1,Facade retention,,
+Ss_15_95_20_30,Flying shores systems,0.3.1,Temporary support to adjacent structures,default,
+Ss_15_95_20_32,Framed retention structure systems,7.4.1,Facade retention,default,
+Ss_15_95_20_32,Framed retention structure systems,0.3.1,Temporary support to adjacent structures,,
+Ss_15_95_20_70,Raking shores systems,7.4.1,Facade retention,,
+Ss_15_95_20_70,Raking shores systems,0.3.1,Temporary support to adjacent structures,default,
+Ss_15_95_20_72,Retention structure systems,7.4.1,Facade retention,default,
+Ss_15_95_20_72,Retention structure systems,0.3.1,Temporary support to adjacent structures,,
+Ss_15_95_45_42,Intercropping systems,8.3.2,External planting,default,unique
+Ss_15_95_45_85,Spoil heap temporary crop systems,8.3.2,External planting,default,unique
+Ss_15_95_45_90,Topsoil heap temporary crop systems,8.3.2,External planting,default,unique
+Ss_20_05_15_65,Precast concrete pad and strip foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_15_70,Reinforced concrete pad and strip foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_15_71,Reinforced concrete pilecap and ground beam foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_15_72,Reinforced concrete raft foundation systems,1.1.3,Lowest floor construction,default,unique
+Ss_20_05_15_80,Steel ground beam foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_15_90,Unreinforced concrete foundation systems for cast in products,1.1.1,Standard foundations,default,unique
+Ss_20_05_15_91,Unreinforced concrete pad and strip foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_15_92,Unreinforced concrete trench fill foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_50_65,Precast concrete foundation and plinth systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_50_70,Reinforced concrete base or foundation systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_50_92,Unreinforced concrete foundation with cast in products systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_50_93,Unreinforced concrete foundation and plinth systems,1.1.1,Standard foundations,default,unique
+Ss_20_05_65,Piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_24,Driven precast or prestressed concrete piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_40,In situ concrete augered piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_41,In situ concrete bored piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_42,In situ concrete cased displacement piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_43,In situ concrete displacement piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_44,In situ concrete mini-piling or micro-piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_64,Plunge column piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_76,Screw piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_84,Steel bearing pile systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_65_89,Timber piling systems,1.1.2,Specialist foundations,default,unique
+Ss_20_05_90_10,Beam and pier unreinforced concrete underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_10,Beam and pier unreinforced concrete underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_35,Grouted underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_35,Grouted underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_45,Jacked pile underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_45,Jacked pile underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_46,Jet grouted underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_46,Jet grouted underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_50,Mass concrete underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_50,Mass concrete underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_60,Pile and cantilever support underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_60,Pile and cantilever support underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_61,Pile and needle underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_61,Pile and needle underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_05_90_70,Raking pile underpinning systems,8.8.3,Underpinning to external site boundary walls,,
+Ss_20_05_90_70,Raking pile underpinning systems,1.1.2,Specialist foundations,default,
+Ss_20_10_30_30,Footbridge systems,8.2.1,"Roads, paths and pavings",default,
+Ss_20_10_30_30,Footbridge systems,2.2.1,Floors,,
+Ss_20_10_70_03,Animal shelter systems,6.1.1,Complete buildings,default,
+Ss_20_10_70_03,Animal shelter systems,6.1.2,Building units,,
+Ss_20_10_70_62,People shelter systems,6.1.1,Complete buildings,,
+Ss_20_10_70_62,People shelter systems,8.5.1,Site/street furniture and equipment,default,
+Ss_20_10_70_64,Plant shelter systems,6.1.1,Complete buildings,default,
+Ss_20_10_70_64,Plant shelter systems,6.1.2,Building units,,
+Ss_20_10_70_84,Storage shelter systems,6.1.1,Complete buildings,default,
+Ss_20_10_70_84,Storage shelter systems,8.5.1,Site/street furniture and equipment,,
+Ss_20_10_75_35,Heavy steel framing systems,2.1.1,Steel frames,default,unique
+Ss_20_10_75_45,Light steel framing systems,2.1.1,Steel frames,default,unique
+Ss_20_10_75_65,Precast reinforced concrete framing systems,2.1.4,Concrete frames,default,unique
+Ss_20_10_75_70,In situ reinforced concrete framing systems,2.1.4,Concrete frames,default,unique
+Ss_20_10_75_85,Timber framing systems,2.1.5,Timber frames,default,unique
+Ss_20_60_30_08,Bored king post embedded retaining wall systems,1.1.5,Basement retaining walls,,
+Ss_20_60_30_08,Bored king post embedded retaining wall systems,8.4.3,Retaining walls,default,
+Ss_20_60_30_15,Contiguous bored pile embedded retaining wall systems,1.1.5,Basement retaining walls,default,
+Ss_20_60_30_15,Contiguous bored pile embedded retaining wall systems,8.4.3,Retaining walls,,
+Ss_20_60_30_24,Driven king post embedded retaining wall systems,1.1.5,Basement retaining walls,,
+Ss_20_60_30_24,Driven king post embedded retaining wall systems,8.4.3,Retaining walls,default,
+Ss_20_60_30_70,Reinforced concrete diaphragm retaining wall systems,1.1.5,Basement retaining walls,default,
+Ss_20_60_30_70,Reinforced concrete diaphragm retaining wall systems,8.4.3,Retaining walls,,
+Ss_20_60_30_80,Secant pile embedded retaining wall systems,1.1.5,Basement retaining walls,default,
+Ss_20_60_30_80,Secant pile embedded retaining wall systems,8.4.3,Retaining walls,,
+Ss_20_60_30_83,Slurry diaphragm embedded retaining wall systems,1.1.5,Basement retaining walls,default,unique
+Ss_20_60_30_92,Unreinforced concrete diaphragm retaining wall systems,1.1.5,Basement retaining walls,default,
+Ss_20_60_30_92,Unreinforced concrete diaphragm retaining wall systems,8.4.3,Retaining walls,,
+Ss_20_60_35_10,Caged rock unit (gabion) retaining wall systems,8.4.3,Retaining walls,default,unique
+Ss_20_60_35_15,Crib retaining wall systems,8.4.3,Retaining walls,default,unique
+Ss_20_60_35_25,Drystack masonry unit retaining wall systems,8.4.3,Retaining walls,default,unique
+Ss_20_60_35_50,Masonry retaining wall systems,1.1.5,Basement retaining walls,default,
+Ss_20_60_35_50,Masonry retaining wall systems,8.4.3,Retaining walls,,
+Ss_20_60_35_66,Precast concrete stem wall retaining wall systems,8.4.3,Retaining walls,default,unique
+Ss_20_60_35_70,Reinforced concrete retaining wall systems,1.1.5,Basement retaining walls,default,
+Ss_20_60_35_70,Reinforced concrete retaining wall systems,8.4.3,Retaining walls,,
+Ss_20_60_35_72,Reinforced earth retaining wall systems,8.4.3,Retaining walls,,unique
+Ss_20_60_35_90,Timber retaining wall systems,8.4.3,Retaining walls,default,unique
+Ss_20_60_35_91,Tyre bale retaining wall systems,8.4.3,Retaining walls,default,unique
+Ss_25_10_20_85,Stick curtain walling systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_10_20_90,Unitized curtain walling systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_10_30_35,Gypsum board partition systems,2.7.1,Walls and partitions,default,
+Ss_25_10_30_35,Gypsum board partition systems,2.7.2,Balustrades and handrails,,
+Ss_25_10_30_70,Rigid sheet partition systems,2.7.1,Walls and partitions,default,
+Ss_25_10_30_70,Rigid sheet partition systems,2.7.2,Balustrades and handrails,,
+Ss_25_10_32_35,Heavy steel wall framing systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_10_32_35,Heavy steel wall framing systems,2.7.1,Walls and partitions,,
+Ss_25_10_32_35,Heavy steel wall framing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_10_32_35,Heavy steel wall framing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_10_32_45,Light steel wall framing systems,2.7.1,Walls and partitions,,
+Ss_25_10_32_45,Light steel wall framing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_10_32_45,Light steel wall framing systems,2.7.2,Balustrades and handrails,,
+Ss_25_10_32_45,Light steel wall framing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_10_32_90,Timber wall framing systems,2.7.1,Walls and partitions,,
+Ss_25_10_32_90,Timber wall framing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_10_32_90,Timber wall framing systems,2.7.2,Balustrades and handrails,,
+Ss_25_10_32_90,Timber wall framing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_10_35_95,Vertical patent glazing systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_11_16_65,Precast concrete wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_11_16_65,Precast concrete wall systems,2.7.1,Walls and partitions,default,
+Ss_25_11_16_65,Precast concrete wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_11_16_65,Precast concrete wall systems,2.7.2,Balustrades and handrails,,
+Ss_25_11_16_65,Precast concrete wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_11_16_70,Reinforced concrete wall structure systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_11_16_70,Reinforced concrete wall structure systems,2.7.1,Walls and partitions,,
+Ss_25_11_16_70,Reinforced concrete wall structure systems,1.1.5,Basement retaining walls,,
+Ss_25_11_16_70,Reinforced concrete wall structure systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_11_16_70,Reinforced concrete wall structure systems,2.7.2,Balustrades and handrails,,
+Ss_25_11_16_70,Reinforced concrete wall structure systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_11_16_80,Sprayed concrete wall structure systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_11_16_80,Sprayed concrete wall structure systems,2.7.1,Walls and partitions,,
+Ss_25_11_16_80,Sprayed concrete wall structure systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_11_16_80,Sprayed concrete wall structure systems,2.7.2,Balustrades and handrails,,
+Ss_25_11_16_80,Sprayed concrete wall structure systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_11_70_55,Non-stabilized rammed earth wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_11_70_55,Non-stabilized rammed earth wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_11_70_55,Non-stabilized rammed earth wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_11_70_85,Stabilized rammed earth wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_11_70_85,Stabilized rammed earth wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_11_70_85,Stabilized rammed earth wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_12_60_30,Fully-framed panel cubicle systems,2.7.4,Cubicles,default,unique
+Ss_25_12_60_60,Panel cubicle systems,2.7.4,Cubicles,default,unique
+Ss_25_12_60_65,Privacy screen systems,2.7.4,Cubicles,default,unique
+Ss_25_12_65_50,Media wall systems,2.7.1,Walls and partitions,default,
+Ss_25_12_65_50,Media wall systems,2.7.3,Moveable room dividers,,
+Ss_25_12_65_65,Plasterboard panel partition systems,2.7.1,Walls and partitions,default,unique
+Ss_25_12_65_85,Storage wall systems,2.7.1,Walls and partitions,default,
+Ss_25_12_65_85,Storage wall systems,2.7.3,Moveable room dividers,,
+Ss_25_12_80_65,Point-fixed structural glass wall systems,2.7.1,Walls and partitions,,
+Ss_25_12_80_65,Point-fixed structural glass wall systems,2.5.3,Solar/rain screening,,
+Ss_25_12_80_65,Point-fixed structural glass wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_12_80_65,Point-fixed structural glass wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_12_80_83,Stacked structural glass wall systems,2.7.1,Walls and partitions,,
+Ss_25_12_80_83,Stacked structural glass wall systems,2.7.3,Moveable room dividers,default,
+Ss_25_12_80_85,Suspended structural glass wall systems,2.7.1,Walls and partitions,,
+Ss_25_12_80_85,Suspended structural glass wall systems,2.5.3,Solar/rain screening,,
+Ss_25_12_80_85,Suspended structural glass wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_12_80_85,Suspended structural glass wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_13_33_33,Glass block wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_33_33,Glass block wall systems,2.7.1,Walls and partitions,,
+Ss_25_13_33_33,Glass block wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_33_33,Glass block wall systems,2.7.2,Balustrades and handrails,,
+Ss_25_13_33_64,Prefabricated glass block wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_33_64,Prefabricated glass block wall systems,2.7.1,Walls and partitions,,
+Ss_25_13_33_64,Prefabricated glass block wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_33_64,Prefabricated glass block wall systems,2.7.2,Balustrades and handrails,,
+Ss_25_13_50_11,Cavity wall insulation systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_50_11,Cavity wall insulation systems,2.7.1,Walls and partitions,,
+Ss_25_13_50_11,Cavity wall insulation systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_50_49,Masonry exposed feature systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_50_49,Masonry exposed feature systems,8.4.2,Walls and screens,,
+Ss_25_13_50_49,Masonry exposed feature systems,2.7.1,Walls and partitions,,
+Ss_25_13_50_49,Masonry exposed feature systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_50_49,Masonry exposed feature systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_13_50_50,Masonry external wall external leaf systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_50_50,Masonry external wall external leaf systems,1.1.5,Basement retaining walls,,
+Ss_25_13_50_50,Masonry external wall external leaf systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_50_50,Masonry external wall external leaf systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_13_50_51,Masonry external wall internal leaf systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_50_51,Masonry external wall internal leaf systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_50_51,Masonry external wall internal leaf systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_13_50_54,Masonry free-standing wall leaf systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_50_54,Masonry free-standing wall leaf systems,8.4.2,Walls and screens,,
+Ss_25_13_50_54,Masonry free-standing wall leaf systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_50_54,Masonry free-standing wall leaf systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_13_50_56,Masonry internal partition systems,2.7.1,Walls and partitions,default,
+Ss_25_13_50_56,Masonry internal partition systems,2.7.2,Balustrades and handrails,,
+Ss_25_13_85_30,Framed straw bale wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_85_30,Framed straw bale wall systems,2.7.1,Walls and partitions,,
+Ss_25_13_85_30,Framed straw bale wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_85_30,Framed straw bale wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_13_85_95,Unframed straw bale wall systems,2.5.2,External enclosing walls below ground level,,
+Ss_25_13_85_95,Unframed straw bale wall systems,2.7.1,Walls and partitions,,
+Ss_25_13_85_95,Unframed straw bale wall systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_13_85_95,Unframed straw bale wall systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_14_63_08,Board or palisade fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_08,Board or palisade fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_11,Carbon steel continuous bar fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_11,Carbon steel continuous bar fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_51,Metal post and rail fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_51,Metal post and rail fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_52,Metal vertical pale fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_52,Metal vertical pale fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_56,Natural hurdle fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_56,Natural hurdle fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_62,Post and panel fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_62,Post and panel fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_63,Post and rail fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_63,Post and rail fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_64,Precast concrete palisade fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_64,Precast concrete palisade fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_65,Precast concrete post and panel fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_65,Precast concrete post and panel fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_66,Precast concrete post and rail fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_66,Precast concrete post and rail fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_67,Prefabricated wood or plastics panel fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_67,Prefabricated wood or plastics panel fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_84,Steel hurdle fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_84,Steel hurdle fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_85,Steel palisade panel fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_85,Steel palisade panel fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_86,Steel vertical bar fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_86,Steel vertical bar fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_95,Wood close boarded fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_95,Wood close boarded fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_96,Wood palisade fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_96,Wood palisade fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_97,Wood post and rail fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_97,Wood post and rail fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_63_98,Wrought iron panel fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_63_98,Wrought iron panel fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_12,Chain link fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_12,Chain link fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_14,Cleft chestnut pale fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_14,Cleft chestnut pale fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_15,Continuous mesh fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_15,Continuous mesh fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_24,Dropper pattern strained wire fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_24,Dropper pattern strained wire fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_27,Electric fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_27,Electric fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_28,Electric security fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_28,Electric security fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_33,General pattern strained wire fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_33,General pattern strained wire fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_34,General pattern wire mesh fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_34,General pattern wire mesh fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_51,Metal mesh panel fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_51,Metal mesh panel fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_70,Rope or chain fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_70,Rope or chain fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_80,Spring steel and high tensile wire mesh fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_80,Spring steel and high tensile wire mesh fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_14_67_97,Wire fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_14_67_97,Wire fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_15_60_05,Balustrade and guarding systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_05,Balustrade and guarding systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_05,Balustrade and guarding systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_15,Composite pedestrian parapet systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_15,Composite pedestrian parapet systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_15,Composite pedestrian parapet systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_16,Composite post and panel barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_16,Composite post and panel barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_16,Composite post and panel barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_17,Composite post and rail barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_17,Composite post and rail barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_17,Composite post and rail barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_18,Concrete post and rail barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_18,Concrete post and rail barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_18,Concrete post and rail barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_35,Handrail systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_35,Handrail systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_35,Handrail systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_37,Hoop barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_37,Hoop barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_37,Hoop barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_52,Metal modular barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_52,Metal modular barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_52,Metal modular barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_53,Metal pedestrian parapet systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_53,Metal pedestrian parapet systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_53,Metal pedestrian parapet systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_54,Metal post and mesh panel barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_54,Metal post and mesh panel barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_54,Metal post and mesh panel barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_55,Metal post and panel barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_55,Metal post and panel barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_55,Metal post and panel barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_56,Metal post and rail barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_56,Metal post and rail barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_56,Metal post and rail barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_57,Metal vertical bar pedestrian guard rail systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_57,Metal vertical bar pedestrian guard rail systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_57,Metal vertical bar pedestrian guard rail systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_68,Post and wire barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_68,Post and wire barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_68,Post and wire barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_96,Wood post and panel barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_96,Wood post and panel barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_96,Wood post and panel barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_60_97,Wood post and rail barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_15_60_97,Wood post and rail barrier systems,2.7.2,Balustrades and handrails,,
+Ss_25_15_60_97,Wood post and rail barrier systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_15_85_55,Multi-use games fencing systems,8.4.1,Fencing and railings,default,
+Ss_25_15_85_55,Multi-use games fencing systems,8.4.4,Barriers and guardrails,,
+Ss_25_16_94_10,Bollard systems,8.4.4,Barriers and guardrails,,
+Ss_25_16_94_10,Bollard systems,8.5.1,Site/street furniture and equipment,default,
+Ss_25_16_94_14,Combined metal and concrete vehicle safety parapet systems,8.4.1,Fencing and railings,,
+Ss_25_16_94_14,Combined metal and concrete vehicle safety parapet systems,8.4.4,Barriers and guardrails,default,
+Ss_25_16_94_16,Concrete safety barrier (CSB) systems,8.4.1,Fencing and railings,,
+Ss_25_16_94_16,Concrete safety barrier (CSB) systems,8.4.4,Barriers and guardrails,default,
+Ss_25_16_94_44,Low-speed precast concrete safety parapet (PCONC) systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_16_94_48,Low-speed metal vehicle safety parapet systems,8.4.1,Fencing and railings,,
+Ss_25_16_94_48,Low-speed metal vehicle safety parapet systems,8.4.4,Barriers and guardrails,default,
+Ss_25_16_94_50,Metal vehicle safety fence systems,8.4.1,Fencing and railings,,
+Ss_25_16_94_50,Metal vehicle safety fence systems,8.4.4,Barriers and guardrails,default,
+Ss_25_16_94_65,Protective rail systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_16_94_97,Wire rope safety fence (WRSF) systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_20_08_95,Weatherboarding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_14_52,Metal composite panel cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_14_55,Metal semi-composite panel cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_33_35,GRC cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_35_35,GRP cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_50_05,Aluminium sheet cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_50_15,Copper sheet cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_50_45,Lead sheet cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_50_50,Lead-wrapped panel cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_50_85,Stainless steel sheet cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_50_95,Zinc sheet cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_68_30,Fibre cement profiled sheet cladding systems,2.7.1,Walls and partitions,,
+Ss_25_20_68_30,Fibre cement profiled sheet cladding systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_20_68_50,Metal profiled sheet cladding systems,2.7.1,Walls and partitions,,
+Ss_25_20_68_50,Metal profiled sheet cladding systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_20_68_65,Plastics profiled sheet cladding systems,2.7.1,Walls and partitions,,
+Ss_25_20_68_65,Plastics profiled sheet cladding systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_20_70_25,Drained and back-ventilated rainscreen cladding systems,2.5.3,Solar/rain screening,default,unique
+Ss_25_20_70_65,Pressure equalized rainscreen cladding systems,2.5.3,Solar/rain screening,default,unique
+Ss_25_20_72_72,Rigid sheet cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_85_55,Natural stone cladding systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_20_85_55,Natural stone cladding systems,3.1.1,Wall finishes,,
+Ss_25_20_90_13,Clay plain tile cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_90_15,Concrete plain tile cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_90_30,Fibre cement slate cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_90_50,Metal tile cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_90_55,Natural slate cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_20_90_95,Wood shingle or shake cladding systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_25_45_25,Duct and wall panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_45_33,Gypsum board casing systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_45_35,Gypsum board wall lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_45_50,Metal framed wall lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_45_70,Rigid sheet wall lining and casing systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_45_88,Timber board casing systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_45_90,Timber board wall lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_75_05,Acoustic panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_75_30,Framed wood panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_75_63,Plastics panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_75_65,Plastics veneered panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_75_85,Specialist faced panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_75_95,Wood veneered panel lining systems,3.1.1,Wall finishes,default,unique
+Ss_25_25_85_55,Natural stone lining systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_25_85_55,Natural stone lining systems,3.1.1,Wall finishes,,
+Ss_25_25_95_28,External wall sheathing systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_30_15_66,Precast concrete security window systems,2.6.1,External windows,default,
+Ss_25_30_15_66,Precast concrete security window systems,2.3.1,Roof structure,,
+Ss_25_30_15_66,Precast concrete security window systems,2.2.2,Balconies,,
+Ss_25_30_20_25,Doorset systems,2.6.2,External doors,,
+Ss_25_30_20_25,Doorset systems,2.8.1,Internal doors,default,
+Ss_25_30_20_30,Frame and door leaf systems,2.6.2,External doors,,
+Ss_25_30_20_30,Frame and door leaf systems,2.8.1,Internal doors,default,
+Ss_25_30_20_32,Frameless glass door systems,2.6.2,External doors,default,
+Ss_25_30_20_32,Frameless glass door systems,2.8.1,Internal doors,,
+Ss_25_30_20_35,Hatch systems,2.6.2,External doors,,
+Ss_25_30_20_35,Hatch systems,2.8.1,Internal doors,default,
+Ss_25_30_20_35,Hatch systems,2.3.5,"Rooflights, skylights and openings",,
+Ss_25_30_20_40,Industrial doorset systems,2.6.2,External doors,default,
+Ss_25_30_20_40,Industrial doorset systems,2.8.1,Internal doors,,
+Ss_25_30_20_45,Loading bay doorset systems,2.6.2,External doors,default,unique
+Ss_25_30_20_70,Revolving doorset systems,2.6.2,External doors,default,
+Ss_25_30_20_70,Revolving doorset systems,2.8.1,Internal doors,,
+Ss_25_30_20_77,Sliding doorset systems,2.6.2,External doors,,
+Ss_25_30_20_77,Sliding doorset systems,2.8.1,Internal doors,default,
+Ss_25_30_20_78,Sliding folding doorset systems,2.7.3,Moveable room dividers,,
+Ss_25_30_20_78,Sliding folding doorset systems,2.6.2,External doors,default,
+Ss_25_30_20_78,Sliding folding doorset systems,2.8.1,Internal doors,,
+Ss_25_30_20_80,Sliding stacking panel partition systems,2.7.3,Moveable room dividers,default,unique
+Ss_25_30_95_26,External window systems,2.6.1,External windows,default,unique
+Ss_25_30_95_96,Window walling systems,2.7.1,Walls and partitions,,
+Ss_25_30_95_96,Window walling systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_32_35_05,Animal gate systems,8.4.1,Fencing and railings,default,unique
+Ss_25_32_35_15,Chicane systems,8.4.1,Fencing and railings,,
+Ss_25_32_35_15,Chicane systems,8.4.4,Barriers and guardrails,default,
+Ss_25_32_35_30,Folding gate systems,8.4.1,Fencing and railings,default,
+Ss_25_32_35_30,Folding gate systems,8.4.4,Barriers and guardrails,,
+Ss_25_32_35_37,Hinged gate systems,8.4.1,Fencing and railings,default,unique
+Ss_25_32_35_41,In-line inhibitor systems,8.4.1,Fencing and railings,,
+Ss_25_32_35_41,In-line inhibitor systems,8.4.4,Barriers and guardrails,default,
+Ss_25_32_35_45,Kissing gate systems,8.4.1,Fencing and railings,default,unique
+Ss_25_32_35_80,Sliding gate systems,8.4.1,Fencing and railings,default,unique
+Ss_25_32_35_85,Stile systems,8.4.1,Fencing and railings,default,unique
+Ss_25_32_35_90,Turnstile systems,8.4.1,Fencing and railings,,
+Ss_25_32_35_90,Turnstile systems,8.4.4,Barriers and guardrails,default,
+Ss_25_36_95_35,Heavy duty sliding beam barrier systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_36_95_36,Height restrictor systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_36_95_38,Horizontal swing gate systems,8.4.1,Fencing and railings,,
+Ss_25_36_95_38,Horizontal swing gate systems,8.4.4,Barriers and guardrails,default,
+Ss_25_36_95_40,Hydraulic ramp systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_36_95_50,Movable bollard and car park post systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_36_95_70,Rising arm barrier systems,8.4.1,Fencing and railings,,
+Ss_25_36_95_70,Rising arm barrier systems,8.4.4,Barriers and guardrails,default,
+Ss_25_36_95_72,Rising bollard systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_36_95_94,Vehicle flow plate systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_36_95_96,Vehicle stop systems,8.4.4,Barriers and guardrails,default,unique
+Ss_25_38_20_20,Door hardware systems,2.6.2,External doors,,
+Ss_25_38_20_20,Door hardware systems,2.8.1,Internal doors,default,
+Ss_25_38_20_30,Garage door hardware systems,2.6.2,External doors,default,unique
+Ss_25_38_20_33,Gate hardware systems,8.4.1,Fencing and railings,default,
+Ss_25_38_20_33,Gate hardware systems,8.4.4,Barriers and guardrails,,
+Ss_25_38_20_33,Gate hardware systems,2.8.1,Internal doors,,
+Ss_25_38_20_35,Hatch hardware systems,2.6.2,External doors,,
+Ss_25_38_20_35,Hatch hardware systems,2.8.1,Internal doors,default,
+Ss_25_38_20_70,Relocatable partition hardware systems,2.7.3,Moveable room dividers,default,unique
+Ss_25_38_20_80,Shutter hardware systems,2.6.2,External doors,default,
+Ss_25_38_20_80,Shutter hardware systems,2.8.1,Internal doors,,
+Ss_25_38_20_95,Window hardware systems,2.6.1,External windows,default,unique
+Ss_25_45_02_60,Parge coat systems,3.1.1,Wall finishes,default,unique
+Ss_25_45_70_55,Multicoat render systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_45_70_55,Multicoat render systems,3.1.1,Wall finishes,,
+Ss_25_45_70_60,One coat render systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_45_70_60,One coat render systems,3.1.1,Wall finishes,,
+Ss_25_45_70_90,Tiling and mosaic render substrate systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_45_70_90,Tiling and mosaic render substrate systems,3.1.1,Wall finishes,,
+Ss_25_45_72_02,Adhesive fixed external wall insulation systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_45_72_42,Insulated plinth systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_45_72_70,Rail fixed external wall insulation systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_45_74_70,Rolled covering systems,3.1.1,Wall finishes,default,unique
+Ss_25_45_85_82,Sprayed external monolithic coating systems,2.5.1,External enclosing walls above ground level,default,unique
+Ss_25_45_85_85,Sprayed internal monolithic coating systems,3.1.1,Wall finishes,default,unique
+Ss_25_45_88_25,External wall tiling systems,3.1.1,Wall finishes,default,unique
+Ss_25_45_88_40,Internal wall tiling systems,3.1.1,Wall finishes,default,unique
+Ss_25_45_88_88,Terrazzo wall tiling systems,3.1.1,Wall finishes,default,unique
+Ss_25_50_45_30,Facade-aligned brise soleil systems,2.5.3,Solar/rain screening,default,unique
+Ss_25_50_45_45,Louvre screen systems,2.5.3,Solar/rain screening,default,unique
+Ss_25_50_45_60,Panellized louvre screen systems,2.7.3,Moveable room dividers,default,
+Ss_25_50_45_60,Panellized louvre screen systems,2.8.1,Internal doors,,
+Ss_25_50_45_65,Projecting brise soleil systems,2.5.3,Solar/rain screening,default,unique
+Ss_25_60_30_40,Individual services penetrations fire stopping systems,5.14.1,Builder's work in connection with services,default,unique
+Ss_25_60_30_45,Linear gap fire stopping systems,5.14.1,Builder's work in connection with services,default,unique
+Ss_25_60_30_48,Loose fire stopping systems,5.14.1,Builder's work in connection with services,default,unique
+Ss_25_60_30_55,Multiple services penetrations fire stopping systems,5.14.1,Builder's work in connection with services,default,unique
+Ss_25_60_30_62,Pipe collar fire stopping systems,5.14.1,Builder's work in connection with services,default,unique
+Ss_25_60_35_06,Bead-fixed insulating glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_06,Bead-fixed insulating glazing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_60_35_06,Bead-fixed insulating glazing systems,2.7.2,Balustrades and handrails,,
+Ss_25_60_35_06,Bead-fixed insulating glazing systems,2.8.1,Internal doors,,
+Ss_25_60_35_06,Bead-fixed insulating glazing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_60_35_08,Bead-fixed single glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_08,Bead-fixed single glazing systems,2.6.1,External windows,default,
+Ss_25_60_35_08,Bead-fixed single glazing systems,2.6.2,External doors,,
+Ss_25_60_35_08,Bead-fixed single glazing systems,2.8.1,Internal doors,,
+Ss_25_60_35_30,Fire-resistant glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_30,Fire-resistant glazing systems,2.6.1,External windows,,
+Ss_25_60_35_30,Fire-resistant glazing systems,2.6.2,External doors,,
+Ss_25_60_35_30,Fire-resistant glazing systems,2.8.1,Internal doors,default,
+Ss_25_60_35_33,Glazing film systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_33,Glazing film systems,2.6.1,External windows,default,
+Ss_25_60_35_33,Glazing film systems,2.6.2,External doors,,
+Ss_25_60_35_33,Glazing film systems,2.8.1,Internal doors,,
+Ss_25_60_35_35,Groove-fixed single glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_35,Groove-fixed single glazing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_60_35_35,Groove-fixed single glazing systems,2.7.2,Balustrades and handrails,,
+Ss_25_60_35_35,Groove-fixed single glazing systems,2.8.1,Internal doors,,
+Ss_25_60_35_35,Groove-fixed single glazing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_60_35_40,"Internal use bead and tape, groove or channel glazing systems",2.7.1,Walls and partitions,default,
+Ss_25_60_35_40,"Internal use bead and tape, groove or channel glazing systems",2.7.2,Balustrades and handrails,,
+Ss_25_60_35_40,"Internal use bead and tape, groove or channel glazing systems",2.8.1,Internal doors,,
+Ss_25_60_35_50,Mirror glazing systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_25_60_35_65,Putty-fronted single glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_65,Putty-fronted single glazing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_60_35_65,Putty-fronted single glazing systems,2.7.2,Balustrades and handrails,,
+Ss_25_60_35_65,Putty-fronted single glazing systems,2.8.1,Internal doors,,
+Ss_25_60_35_65,Putty-fronted single glazing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_60_35_75,Single-sided gasket glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_75,Single-sided gasket glazing systems,2.6.1,External windows,default,
+Ss_25_60_35_75,Single-sided gasket glazing systems,2.6.2,External doors,,
+Ss_25_60_35_75,Single-sided gasket glazing systems,2.8.1,Internal doors,,
+Ss_25_60_35_85,Structural zipper gasket glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_85,Structural zipper gasket glazing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_60_35_85,Structural zipper gasket glazing systems,2.7.2,Balustrades and handrails,,
+Ss_25_60_35_85,Structural zipper gasket glazing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_60_35_95,U-profiled glazing systems,2.7.1,Walls and partitions,,
+Ss_25_60_35_95,U-profiled glazing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_25_60_35_95,U-profiled glazing systems,2.7.2,Balustrades and handrails,,
+Ss_25_60_35_95,U-profiled glazing systems,2.5.5,"Subsidiary walls, balustrades and proprietary balconies",,
+Ss_25_60_50_03,Aluminium sheet flashing systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_03,Aluminium sheet flashing systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_04,Aluminium sheet weathering systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_04,Aluminium sheet weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_14,Copper sheet wall flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_14,Copper sheet wall flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_47,Lead damp-proof course systems,2.5.2,External enclosing walls below ground level,default,
+Ss_25_60_50_47,Lead damp-proof course systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_47,Lead damp-proof course systems,2.3.1,Roof structure,,
+Ss_25_60_50_47,Lead damp-proof course systems,1.1.3,Lowest floor construction,,
+Ss_25_60_50_48,Lead sheet wall flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_48,Lead sheet wall flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_49,Lead sheet weathering systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_49,Lead sheet weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_49,Lead sheet weathering systems,2.3.6,Roof features,,
+Ss_25_60_50_84,Stainless steel sheet wall flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_84,Stainless steel sheet wall flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_84,Stainless steel sheet wall flashing and weathering systems,2.3.6,Roof features,,
+Ss_25_60_50_84,Stainless steel sheet wall flashing and weathering systems,2.3.3,Specialist roof systems,,
+Ss_25_60_50_94,Zinc sheet wall flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_25_60_50_94,Zinc sheet wall flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_25_60_50_94,Zinc sheet wall flashing and weathering systems,2.3.6,Roof features,,
+Ss_25_60_50_94,Zinc sheet wall flashing and weathering systems,2.3.3,Specialist roof systems,,
+Ss_30_10_30_25,Heavy steel roof framing systems,2.1.1,Steel frames,default,unique
+Ss_30_10_30_30,Heavy steel roof space frame systems,2.1.1,Steel frames,,
+Ss_30_10_30_30,Heavy steel roof space frame systems,2.1.2,Space frames/decks,default,
+Ss_30_10_30_35,Heavy steel roof space truss systems,2.1.1,Steel frames,default,
+Ss_30_10_30_35,Heavy steel roof space truss systems,2.1.2,Space frames/decks,,
+Ss_30_10_30_45,Light steel roof framing systems,2.1.1,Steel frames,,
+Ss_30_10_30_45,Light steel roof framing systems,2.1.2,Space frames/decks,default,
+Ss_30_10_30_85,Timber roof framing systems,2.3.1,Roof structure,default,unique
+Ss_30_10_50_70,Sprayed concrete roof systems,2.1.6,Specialist frames,default,unique
+Ss_30_10_90_50,Masonry roof systems,2.3.1,Roof structure,default,unique
+Ss_30_12_85_15,"Composite concrete floor, roof or balcony deck systems",2.3.1,Roof structure,,
+Ss_30_12_85_15,"Composite concrete floor, roof or balcony deck systems",2.2.2,Balconies,,
+Ss_30_12_85_15,"Composite concrete floor, roof or balcony deck systems",1.1.3,Lowest floor construction,,
+Ss_30_12_85_15,"Composite concrete floor, roof or balcony deck systems",2.2.1,Floors,default,
+Ss_30_12_85_16,"Composite steel and concrete floor, roof or balcony deck systems",2.3.1,Roof structure,,
+Ss_30_12_85_16,"Composite steel and concrete floor, roof or balcony deck systems",2.2.2,Balconies,,
+Ss_30_12_85_16,"Composite steel and concrete floor, roof or balcony deck systems",1.1.3,Lowest floor construction,,
+Ss_30_12_85_16,"Composite steel and concrete floor, roof or balcony deck systems",2.2.1,Floors,default,
+Ss_30_12_85_17,Concrete beam and block floor or roof deck systems,2.3.1,Roof structure,,
+Ss_30_12_85_17,Concrete beam and block floor or roof deck systems,1.1.3,Lowest floor construction,,
+Ss_30_12_85_17,Concrete beam and block floor or roof deck systems,2.2.1,Floors,default,
+Ss_30_12_85_18,Concrete floor or roof deck systems,2.3.1,Roof structure,,
+Ss_30_12_85_18,Concrete floor or roof deck systems,1.1.3,Lowest floor construction,,
+Ss_30_12_85_18,Concrete floor or roof deck systems,2.2.1,Floors,default,
+Ss_30_12_85_30,Glazed unit floor or roof deck systems,2.2.2,Balconies,,
+Ss_30_12_85_30,Glazed unit floor or roof deck systems,1.1.3,Lowest floor construction,,
+Ss_30_12_85_30,Glazed unit floor or roof deck systems,2.2.1,Floors,,
+Ss_30_12_85_30,Glazed unit floor or roof deck systems,2.3.3,Specialist roof systems,default,
+Ss_30_12_85_40,"Heavy steel floor, roof or balcony deck systems",2.1.2,Space frames/decks,default,
+Ss_30_12_85_40,"Heavy steel floor, roof or balcony deck systems",2.3.1,Roof structure,,
+Ss_30_12_85_40,"Heavy steel floor, roof or balcony deck systems",2.2.2,Balconies,,
+Ss_30_12_85_40,"Heavy steel floor, roof or balcony deck systems",1.1.3,Lowest floor construction,,
+Ss_30_12_85_40,"Heavy steel floor, roof or balcony deck systems",2.2.1,Floors,,
+Ss_30_12_85_50,"Light steel floor, roof or balcony deck systems",2.1.2,Space frames/decks,default,
+Ss_30_12_85_50,"Light steel floor, roof or balcony deck systems",2.3.1,Roof structure,,
+Ss_30_12_85_50,"Light steel floor, roof or balcony deck systems",2.2.2,Balconies,,
+Ss_30_12_85_50,"Light steel floor, roof or balcony deck systems",1.1.3,Lowest floor construction,,
+Ss_30_12_85_50,"Light steel floor, roof or balcony deck systems",2.2.1,Floors,,
+Ss_30_12_85_70,"Reinforced concrete floor, roof or balcony deck systems",2.3.1,Roof structure,,
+Ss_30_12_85_70,"Reinforced concrete floor, roof or balcony deck systems",2.2.2,Balconies,,
+Ss_30_12_85_70,"Reinforced concrete floor, roof or balcony deck systems",1.1.3,Lowest floor construction,,
+Ss_30_12_85_70,"Reinforced concrete floor, roof or balcony deck systems",2.2.1,Floors,default,
+Ss_30_12_85_90,"Timber floor, roof or balcony deck systems",2.3.1,Roof structure,,
+Ss_30_12_85_90,"Timber floor, roof or balcony deck systems",2.2.2,Balconies,,
+Ss_30_12_85_90,"Timber floor, roof or balcony deck systems",1.1.3,Lowest floor construction,,
+Ss_30_12_85_90,"Timber floor, roof or balcony deck systems",2.2.1,Floors,default,
+Ss_30_14_02_30,Fibre-reinforced resin-bound aggregate overlay systems,7.6.2,Concrete repairs,,
+Ss_30_14_02_30,Fibre-reinforced resin-bound aggregate overlay systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_02_30,Fibre-reinforced resin-bound aggregate overlay systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_02_30,Fibre-reinforced resin-bound aggregate overlay systems,3.2.1,Finishes to floors,,
+Ss_30_14_02_30,Fibre-reinforced resin-bound aggregate overlay systems,2.3.2,Roof coverings,,
+Ss_30_14_02_41,Impact absorbing synthetic play and sport paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_02_41,Impact absorbing synthetic play and sport paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_02_41,Impact absorbing synthetic play and sport paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_02_41,Impact absorbing synthetic play and sport paving systems,2.3.2,Roof coverings,,
+Ss_30_14_02_42,Impervious acrylic coated sports paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_02_42,Impervious acrylic coated sports paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_02_42,Impervious acrylic coated sports paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_02_42,Impervious acrylic coated sports paving systems,2.3.2,Roof coverings,,
+Ss_30_14_02_70,Resin-bonded aggregate paving systems,7.6.2,Concrete repairs,,
+Ss_30_14_02_70,Resin-bonded aggregate paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_02_70,Resin-bonded aggregate paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_02_70,Resin-bonded aggregate paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_02_70,Resin-bonded aggregate paving systems,2.3.2,Roof coverings,,
+Ss_30_14_02_71,Resin-bound aggregate light duty paving systems,7.6.2,Concrete repairs,,
+Ss_30_14_02_71,Resin-bound aggregate light duty paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_02_71,Resin-bound aggregate light duty paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_02_71,Resin-bound aggregate light duty paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_02_71,Resin-bound aggregate light duty paving systems,2.3.2,Roof coverings,,
+Ss_30_14_02_73,Resin-bound aggregate overlay systems,7.6.2,Concrete repairs,,
+Ss_30_14_02_73,Resin-bound aggregate overlay systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_02_73,Resin-bound aggregate overlay systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_02_73,Resin-bound aggregate overlay systems,3.2.1,Finishes to floors,,
+Ss_30_14_02_73,Resin-bound aggregate overlay systems,2.3.2,Roof coverings,,
+Ss_30_14_05_06,Asphalt concrete paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_06,Asphalt concrete paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_06,Asphalt concrete paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_06,Asphalt concrete paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_05_08,Asphalt concrete surface overlay systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_08,Asphalt concrete surface overlay systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_08,Asphalt concrete surface overlay systems,2.3.2,Roof coverings,,
+Ss_30_14_05_08,Asphalt concrete surface overlay systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_05_35,Hot rolled asphalt paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_35,Hot rolled asphalt paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_35,Hot rolled asphalt paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_35,Hot rolled asphalt paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_05_40,Hot rolled asphalt sports paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_40,Hot rolled asphalt sports paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_05_40,Hot rolled asphalt sports paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_40,Hot rolled asphalt sports paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_50,Mastic asphalt pedestrian paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_50,Mastic asphalt pedestrian paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_50,Mastic asphalt pedestrian paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_50,Mastic asphalt pedestrian paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_05_65,Porous asphalt concrete paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_65,Porous asphalt concrete paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_65,Porous asphalt concrete paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_65,Porous asphalt concrete paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_05_70,Porous asphalt concrete sports paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_70,Porous asphalt concrete sports paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_05_70,Porous asphalt concrete sports paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_70,Porous asphalt concrete sports paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_75,Stone mastic asphalt paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_05_75,Stone mastic asphalt paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_05_75,Stone mastic asphalt paving systems,2.3.2,Roof coverings,,
+Ss_30_14_05_75,Stone mastic asphalt paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_15_14,Concrete grass-filled paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_15_14,Concrete grass-filled paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_15_14,Concrete grass-filled paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_15_14,Concrete grass-filled paving systems,2.3.2,Roof coverings,,
+Ss_30_14_15_14,Concrete grass-filled paving systems,8.3.1,Seeding and turfing,,
+Ss_30_14_15_16,Concrete paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_15_16,Concrete paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_15_16,Concrete paving systems,2.3.2,Roof coverings,,
+Ss_30_14_15_16,Concrete paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_15_17,Concrete porous paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_15_17,Concrete porous paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_15_17,Concrete porous paving systems,2.3.2,Roof coverings,,
+Ss_30_14_15_17,Concrete porous paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_15_17,Concrete porous paving systems,8.6.4,Land drainage,,
+Ss_30_14_50_25,Dry ski slope synthetic matting systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_50_25,Dry ski slope synthetic matting systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_50_25,Dry ski slope synthetic matting systems,3.2.1,Finishes to floors,,
+Ss_30_14_50_25,Dry ski slope synthetic matting systems,2.3.2,Roof coverings,,
+Ss_30_14_50_65,Polymeric sports paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_50_65,Polymeric sports paving systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_50_65,Polymeric sports paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_50_65,Polymeric sports paving systems,2.3.2,Roof coverings,,
+Ss_30_14_50_80,Synthetic grass surfacing systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_50_80,Synthetic grass surfacing systems,8.2.2,Special surfacings and pavings,default,
+Ss_30_14_50_80,Synthetic grass surfacing systems,3.2.1,Finishes to floors,,
+Ss_30_14_50_80,Synthetic grass surfacing systems,2.3.2,Roof coverings,,
+Ss_30_14_80_30,Fast dry clay sports paving systems,8.2.2,Special surfacings and pavings,default,unique
+Ss_30_14_80_37,Hoggin paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_80_37,Hoggin paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_80_37,Hoggin paving systems,2.3.2,Roof coverings,,
+Ss_30_14_80_37,Hoggin paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_80_40,Hard binding gravel paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_80_40,Hard binding gravel paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_80_45,Loose laid aggregate paving systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_14_80_47,Loose aggregate overlay systems,2.3.2,Roof coverings,,
+Ss_30_14_80_47,Loose aggregate overlay systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_80_48,Loose gravel paving systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_14_80_90,Unbound aggregate cycle paving systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_14_80_98,Woodchip and woodfibre surface paving systems,8.2.2,Special surfacings and pavings,default,unique
+Ss_30_14_90_11,Cellular plastics grass-filled paving systems,8.2.2,Special surfacings and pavings,,
+Ss_30_14_90_11,Cellular plastics grass-filled paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_12,Cellular plastics gravel-filled paving systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_14_90_30,Flag and slab bound paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_30,Flag and slab bound paving systems,2.3.2,Roof coverings,,
+Ss_30_14_90_30,Flag and slab bound paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_32,Flag and slab paving overlay systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_32,Flag and slab paving overlay systems,2.3.2,Roof coverings,,
+Ss_30_14_90_32,Flag and slab paving overlay systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_34,Flag and slab pedestal-supported paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_34,Flag and slab pedestal-supported paving systems,2.3.2,Roof coverings,default,
+Ss_30_14_90_34,Flag and slab pedestal-supported paving systems,8.2.1,"Roads, paths and pavings",,
+Ss_30_14_90_36,Flag and slab unbound paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_36,Flag and slab unbound paving systems,2.3.2,Roof coverings,,
+Ss_30_14_90_36,Flag and slab unbound paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_50,Mosaic paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_50,Mosaic paving systems,3.2.1,Finishes to floors,,
+Ss_30_14_90_50,Mosaic paving systems,2.3.2,Roof coverings,,
+Ss_30_14_90_50,Mosaic paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_60,Permeable flag and slab paving systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_14_90_62,Permeable small unit paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_62,Permeable small unit paving systems,2.3.2,Roof coverings,,
+Ss_30_14_90_62,Permeable small unit paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_75,Small unit bound paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_75,Small unit bound paving systems,2.3.2,Roof coverings,,
+Ss_30_14_90_75,Small unit bound paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_80,Small unit paving overlay systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_80,Small unit paving overlay systems,2.3.2,Roof coverings,,
+Ss_30_14_90_80,Small unit paving overlay systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_14_90_85,Small unit unbound paving systems,2.4.2,Stair/ramp finishes,,
+Ss_30_14_90_85,Small unit unbound paving systems,2.3.2,Roof coverings,,
+Ss_30_14_90_85,Small unit unbound paving systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_20_10_10,Battened timber board floating floor systems,2.4.1,Stair/ramp structures,,
+Ss_30_20_10_10,Battened timber board floating floor systems,1.1.3,Lowest floor construction,,
+Ss_30_20_10_10,Battened timber board floating floor systems,2.2.1,Floors,default,
+Ss_30_20_10_15,Battened wood-based rigid sheet floating floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_10_15,Battened wood-based rigid sheet floating floor systems,3.2.1,Finishes to floors,default,
+Ss_30_20_10_45,Joist-supported timber board floor systems,2.4.1,Stair/ramp structures,,
+Ss_30_20_10_45,Joist-supported timber board floor systems,1.1.3,Lowest floor construction,,
+Ss_30_20_10_45,Joist-supported timber board floor systems,2.2.1,Floors,default,
+Ss_30_20_10_50,Joist-supported wood-based rigid sheet floor systems,2.4.1,Stair/ramp structures,,
+Ss_30_20_10_50,Joist-supported wood-based rigid sheet floor systems,1.1.3,Lowest floor construction,,
+Ss_30_20_10_50,Joist-supported wood-based rigid sheet floor systems,2.2.1,Floors,default,
+Ss_30_20_10_95,Wood-based rigid sheet floating floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_10_95,Wood-based rigid sheet floating floor systems,3.2.1,Finishes to floors,default,
+Ss_30_20_30_10,Boardwalk systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_30_10,Boardwalk systems,3.2.1,Finishes to floors,,
+Ss_30_20_30_10,Boardwalk systems,2.3.2,Roof coverings,,
+Ss_30_20_30_10,Boardwalk systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_20_30_25,Decking systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_20_70_70,Raised access floor systems,3.2.2,Raised access floors,default,unique
+Ss_30_20_90_15,Composition block flooring systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_90_15,Composition block flooring systems,3.2.1,Finishes to floors,default,
+Ss_30_20_90_50,Mosaic parquet panel flooring systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_90_50,Mosaic parquet panel flooring systems,3.2.1,Finishes to floors,default,
+Ss_30_20_90_95,Wood block flooring systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_90_95,Wood block flooring systems,3.2.1,Finishes to floors,default,
+Ss_30_20_95_10,Battened wood floating floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_95_10,Battened wood floating floor systems,3.2.1,Finishes to floors,default,
+Ss_30_20_95_15,Composite laminate floating floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_95_15,Composite laminate floating floor systems,3.2.1,Finishes to floors,default,
+Ss_30_20_95_20,Direct-fixed wood floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_95_20,Direct-fixed wood floor systems,3.2.1,Finishes to floors,,
+Ss_30_20_95_20,Direct-fixed wood floor systems,2.2.1,Floors,default,
+Ss_30_20_95_25,Direct-glued wood floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_95_25,Direct-glued wood floor systems,3.2.1,Finishes to floors,default,
+Ss_30_20_95_95,Wood floating floor systems,2.4.2,Stair/ramp finishes,,
+Ss_30_20_95_95,Wood floating floor systems,3.2.1,Finishes to floors,,
+Ss_30_20_95_95,Wood floating floor systems,1.1.3,Lowest floor construction,,
+Ss_30_20_95_95,Wood floating floor systems,2.2.1,Floors,default,
+Ss_30_25_10_10,Board suspended ceiling systems,3.3.3,Demountable suspended ceilings,,
+Ss_30_25_10_10,Board suspended ceiling systems,3.3.2,False ceilings,default,
+Ss_30_25_10_80,Soffit lining and beam casing systems,2.1.1,Steel frames,,
+Ss_30_25_10_80,Soffit lining and beam casing systems,3.3.2,False ceilings,,
+Ss_30_25_10_80,Soffit lining and beam casing systems,3.3.1,Finishes to ceilings,default,
+Ss_30_25_22_01,Acoustic baffle suspended ceiling systems,3.3.3,Demountable suspended ceilings,,
+Ss_30_25_22_01,Acoustic baffle suspended ceiling systems,3.3.2,False ceilings,default,
+Ss_30_25_22_30,Fabric membrane ceiling systems,3.3.2,False ceilings,default,unique
+Ss_30_25_22_70,Raft or island suspended ceiling systems,3.3.3,Demountable suspended ceilings,,
+Ss_30_25_22_70,Raft or island suspended ceiling systems,3.3.2,False ceilings,default,
+Ss_30_25_22_90,Unit/ modular suspended ceiling systems,3.3.3,Demountable suspended ceilings,,
+Ss_30_25_22_90,Unit/ modular suspended ceiling systems,3.3.2,False ceilings,default,
+Ss_30_30_15_42,In situ concrete roof glazing systems,2.3.1,Roof structure,,
+Ss_30_30_15_42,In situ concrete roof glazing systems,2.2.2,Balconies,,
+Ss_30_30_15_42,In situ concrete roof glazing systems,2.2.1,Floors,,
+Ss_30_30_15_42,In situ concrete roof glazing systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_30_15_64,Precast concrete lift-out access roof glazing systems,2.3.1,Roof structure,,
+Ss_30_30_15_64,Precast concrete lift-out access roof glazing systems,2.2.2,Balconies,,
+Ss_30_30_15_64,Precast concrete lift-out access roof glazing systems,2.2.1,Floors,,
+Ss_30_30_15_64,Precast concrete lift-out access roof glazing systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_30_15_65,Precast concrete roof glazing systems,2.2.2,Balconies,,
+Ss_30_30_15_65,Precast concrete roof glazing systems,2.2.1,Floors,,
+Ss_30_30_15_65,Precast concrete roof glazing systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_30_72_21,Daylight pipe systems,2.3.5,"Rooflights, skylights and openings",default,unique
+Ss_30_30_72_72,Rooflight systems,2.3.5,"Rooflights, skylights and openings",default,unique
+Ss_30_30_72_73,Roof window systems,2.3.5,"Rooflights, skylights and openings",default,unique
+Ss_30_30_73_60,Passive roof natural ventilator systems,2.3.5,"Rooflights, skylights and openings",default,unique
+Ss_30_32_15_15,Concrete floor glazing systems,2.3.1,Roof structure,,
+Ss_30_32_15_15,Concrete floor glazing systems,2.2.2,Balconies,,
+Ss_30_32_15_15,Concrete floor glazing systems,2.2.1,Floors,,
+Ss_30_32_15_15,Concrete floor glazing systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_32_15_64,Precast concrete lift-out access floor glazing systems,2.3.1,Roof structure,,
+Ss_30_32_15_64,Precast concrete lift-out access floor glazing systems,2.2.2,Balconies,,
+Ss_30_32_15_64,Precast concrete lift-out access floor glazing systems,2.2.1,Floors,,
+Ss_30_32_15_64,Precast concrete lift-out access floor glazing systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_32_15_65,Precast concrete floor glazing systems,2.2.2,Balconies,,
+Ss_30_32_15_65,Precast concrete floor glazing systems,2.2.1,Floors,,
+Ss_30_32_15_65,Precast concrete floor glazing systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_34_03_11,Cattle grid systems,8.4.4,Barriers and guardrails,default,unique
+Ss_30_34_15_15,Concrete pavement glazing systems,2.3.5,"Rooflights, skylights and openings",default,unique
+Ss_30_34_15_64,Precast concrete lift-out access pavement glazing systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_34_15_64,Precast concrete lift-out access pavement glazing systems,2.3.1,Roof structure,,
+Ss_30_34_15_64,Precast concrete lift-out access pavement glazing systems,2.2.2,Balconies,,
+Ss_30_34_15_64,Precast concrete lift-out access pavement glazing systems,2.2.1,Floors,,
+Ss_30_34_15_65,Precast concrete pavement glazing systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_34_15_65,Precast concrete pavement glazing systems,2.3.5,"Rooflights, skylights and openings",,
+Ss_30_34_16_15,Concrete pavement glazing smoke venting systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_34_16_15,Concrete pavement glazing smoke venting systems,2.3.1,Roof structure,,
+Ss_30_34_16_15,Concrete pavement glazing smoke venting systems,2.2.2,Balconies,,
+Ss_30_34_16_15,Concrete pavement glazing smoke venting systems,2.2.1,Floors,,
+Ss_30_34_16_16,Concrete pavement non-glazed smoke venting systems,2.3.1,Roof structure,,
+Ss_30_34_16_16,Concrete pavement non-glazed smoke venting systems,2.2.2,Balconies,,
+Ss_30_34_16_16,Concrete pavement non-glazed smoke venting systems,2.2.1,Floors,default,
+Ss_30_34_16_64,Precast concrete pavement glazing smoke venting systems,2.2.2,Balconies,,
+Ss_30_34_16_64,Precast concrete pavement glazing smoke venting systems,2.2.1,Floors,,
+Ss_30_34_16_64,Precast concrete pavement glazing smoke venting systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_34_16_65,Precast concrete pavement non-glazed smoke venting systems,2.2.2,Balconies,,
+Ss_30_34_16_65,Precast concrete pavement non-glazed smoke venting systems,2.2.1,Floors,,
+Ss_30_34_16_65,Precast concrete pavement non-glazed smoke venting systems,2.3.5,"Rooflights, skylights and openings",default,
+Ss_30_40_10_30,Flat board roof deck systems,2.3.1,Roof structure,default,unique
+Ss_30_40_10_60,Pitched board roof sarking systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_40,Liquid-applied cold roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_42,Liquid-applied inverted roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_43,Liquid-applied warm roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_50,Mastic asphalt cold roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_52,Mastic asphalt inverted roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_55,Mastic asphalt warm roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_70,Reinforced bitumen membrane cold roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_71,Reinforced bitumen membrane inverted roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_72,Reinforced bitumen membrane warm roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_78,Single layer sheet cold roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_79,Single layer sheet inverted roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_30_80,Single layer sheet warm roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_34_60,Point-fixed structural glass canopy systems,2.5.3,Solar/rain screening,default,
+Ss_30_40_34_60,Point-fixed structural glass canopy systems,2.3.6,Roof features,,
+Ss_30_40_34_60,Point-fixed structural glass canopy systems,2.3.5,"Rooflights, skylights and openings",,
+Ss_30_40_34_65,Point-fixed structural glass roof systems,2.3.6,Roof features,,
+Ss_30_40_34_65,Point-fixed structural glass roof systems,2.3.3,Specialist roof systems,default,
+Ss_30_40_34_65,Point-fixed structural glass roof systems,2.3.5,"Rooflights, skylights and openings",,
+Ss_30_40_34_70,Point-fixed structural glass soffit systems,2.5.4,External soffits,default,unique
+Ss_30_40_34_75,Sloping patent glazing systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_40_34_75,Sloping patent glazing systems,2.3.6,Roof features,,
+Ss_30_40_34_75,Sloping patent glazing systems,2.3.3,Specialist roof systems,default,
+Ss_30_40_34_75,Sloping patent glazing systems,2.3.5,"Rooflights, skylights and openings",,
+Ss_30_40_50_05,Aluminium sheet dormer covering systems,2.3.2,Roof coverings,default,
+Ss_30_40_50_05,Aluminium sheet dormer covering systems,2.3.6,Roof features,,
+Ss_30_40_50_10,Aluminium sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_50_15,Copper sheet dormer covering systems,2.3.2,Roof coverings,default,
+Ss_30_40_50_15,Copper sheet dormer covering systems,2.3.6,Roof features,,
+Ss_30_40_50_20,Copper sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_50_40,Lead sheet dormer covering systems,2.3.2,Roof coverings,default,
+Ss_30_40_50_40,Lead sheet dormer covering systems,2.3.6,Roof features,,
+Ss_30_40_50_45,Lead sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_50_50,Lead-wrapped panel systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_40_50_50,Lead-wrapped panel systems,2.3.6,Roof features,,
+Ss_30_40_50_50,Lead-wrapped panel systems,2.3.3,Specialist roof systems,default,
+Ss_30_40_50_75,Stainless steel sheet dormer covering systems,2.3.2,Roof coverings,default,
+Ss_30_40_50_75,Stainless steel sheet dormer covering systems,2.3.6,Roof features,,
+Ss_30_40_50_80,Stainless steel sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_50_90,Zinc sheet dormer covering systems,2.3.2,Roof coverings,default,
+Ss_30_40_50_90,Zinc sheet dormer covering systems,2.3.6,Roof features,,
+Ss_30_40_50_95,Zinc sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_55_50,Metal composite panel roofing systems,2.3.2,Roof coverings,default,
+Ss_30_40_55_50,Metal composite panel roofing systems,2.3.6,Roof features,,
+Ss_30_40_55_55,Metal semi-composite panel roofing systems,2.3.2,Roof coverings,default,
+Ss_30_40_55_55,Metal semi-composite panel roofing systems,2.3.6,Roof features,,
+Ss_30_40_65_30,Fibre cement profiled sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_65_50,Metal profiled sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_65_60,Plastics profiled sheet roof covering systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_90_40,Internal single layer tensile fabric roofing systems,3.3.2,False ceilings,default,unique
+Ss_30_40_90_50,Multilayer tensile fabric roofing systems,2.3.3,Specialist roof systems,default,unique
+Ss_30_40_90_75,Single layer tensile fabric roofing systems,2.3.3,Specialist roof systems,default,unique
+Ss_30_40_92_85,Thatch roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_10,Bitumen membrane shingle roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_15,Ceramic slate roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_30,Fibre cement slate roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_40,Interlocking tile roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_50,Metal tile roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_55,Natural slate roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_60,Natural stone slate roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_65,Plain tile roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_70,Reconstituted slate roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_40_95_95,Wood shake or shingle roofing systems,2.3.2,Roof coverings,default,unique
+Ss_30_42_10_10,Bonded calcium sulfate-based screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_10_10,Bonded calcium sulfate-based screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_10_30,Floating calcium sulfate-based screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_10_30,Floating calcium sulfate-based screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_10_90,Unbonded calcium sulfate-based screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_10_90,Unbonded calcium sulfate-based screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_15_10,Bonded or partially bonded cementitious levelling screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_15_10,Bonded or partially bonded cementitious levelling screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_15_15,Cementitious wearing screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_15_15,Cementitious wearing screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_15_30,Floating cementitious levelling screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_15_30,Floating cementitious levelling screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_15_90,Unbonded cementitious levelling screed systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_15_90,Unbonded cementitious levelling screed systems,3.2.1,Finishes to floors,default,
+Ss_30_42_30_30,Floor coating systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_30_30,Floor coating systems,3.2.1,Finishes to floors,default,
+Ss_30_42_32_30,External floor tiling systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_32_30,External floor tiling systems,3.2.1,Finishes to floors,default,
+Ss_30_42_32_30,External floor tiling systems,2.3.2,Roof coverings,,
+Ss_30_42_32_30,External floor tiling systems,8.2.1,"Roads, paths and pavings",,
+Ss_30_42_32_40,Internal floor tiling systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_32_40,Internal floor tiling systems,3.2.1,Finishes to floors,default,
+Ss_30_42_52_50,Mastic asphalt flooring systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_52_50,Mastic asphalt flooring systems,3.2.1,Finishes to floors,default,
+Ss_30_42_52_50,Mastic asphalt flooring systems,8.2.1,"Roads, paths and pavings",,
+Ss_30_42_52_50,Mastic asphalt flooring systems,2.2.2,Balconies,,
+Ss_30_42_52_52,Mastic asphalt floor underlay systems,3.2.1,Finishes to floors,default,
+Ss_30_42_52_52,Mastic asphalt floor underlay systems,8.2.1,"Roads, paths and pavings",,
+Ss_30_42_52_52,Mastic asphalt floor underlay systems,2.2.2,Balconies,,
+Ss_30_42_54_75,Resin flooring systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_54_75,Resin flooring systems,3.2.1,Finishes to floors,default,
+Ss_30_42_72_05,Adhesive-fixed rolled carpet systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_72_05,Adhesive-fixed rolled carpet systems,3.2.1,Finishes to floors,default,
+Ss_30_42_72_10,Carpet tile systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_72_10,Carpet tile systems,3.2.1,Finishes to floors,default,
+Ss_30_42_72_25,Edge-fixed carpet systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_72_25,Edge-fixed carpet systems,3.2.1,Finishes to floors,default,
+Ss_30_42_72_72,Resilient sheet floor covering systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_72_72,Resilient sheet floor covering systems,3.2.1,Finishes to floors,default,
+Ss_30_42_72_75,Resilient tile floor covering systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_72_75,Resilient tile floor covering systems,3.2.1,Finishes to floors,default,
+Ss_30_42_90_90,Terrazzo floor covering systems,2.4.2,Stair/ramp finishes,,
+Ss_30_42_90_90,Terrazzo floor covering systems,3.2.1,Finishes to floors,default,
+Ss_30_60_50_03,Aluminium flashing systems,2.3.2,Roof coverings,default,
+Ss_30_60_50_03,Aluminium flashing systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_60_50_04,Aluminium roof flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_30_60_50_04,Aluminium roof flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_60_50_19,Copper roof flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_30_60_50_19,Copper roof flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_60_50_47,Lead roof flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_30_60_50_47,Lead roof flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_60_50_47,Lead roof flashing and weathering systems,2.3.6,Roof features,,
+Ss_30_60_50_84,Stainless steel roof flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_30_60_50_84,Stainless steel roof flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_60_50_84,Stainless steel roof flashing and weathering systems,2.3.6,Roof features,,
+Ss_30_60_50_84,Stainless steel roof flashing and weathering systems,2.3.3,Specialist roof systems,,
+Ss_30_60_50_99,Zinc roof flashing and weathering systems,2.3.2,Roof coverings,default,
+Ss_30_60_50_99,Zinc roof flashing and weathering systems,2.5.1,External enclosing walls above ground level,,
+Ss_30_60_50_99,Zinc roof flashing and weathering systems,2.3.6,Roof features,,
+Ss_30_60_50_99,Zinc roof flashing and weathering systems,2.3.3,Specialist roof systems,,
+Ss_30_75_40_30,Footway grating systems,8.6.1,Surface water and foul water drainage,default,
+Ss_30_75_40_30,Footway grating systems,2.2.3,Drainage to balconies,,
+Ss_30_75_40_30,Footway grating systems,2.3.4,Roof drainage,,
+Ss_30_75_40_50,Multi unit surface drainage channel systems,8.6.1,Surface water and foul water drainage,default,
+Ss_30_75_40_50,Multi unit surface drainage channel systems,2.2.3,Drainage to balconies,,
+Ss_30_75_40_50,Multi unit surface drainage channel systems,2.3.4,Roof drainage,,
+Ss_30_75_40_75,Single unit surface drainage channel systems,8.6.1,Surface water and foul water drainage,default,
+Ss_30_75_40_75,Single unit surface drainage channel systems,2.2.3,Drainage to balconies,,
+Ss_30_75_40_75,Single unit surface drainage channel systems,2.3.4,Roof drainage,,
+Ss_30_75_45_20,Demarcation paving systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_75_45_45,Light duty kerb systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_75_45_55,Multi unit traffic calming systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_75_45_55,Multi unit traffic calming systems,8.5.1,Site/street furniture and equipment,,
+Ss_30_75_45_80,Single unit traffic calming systems,8.2.1,"Roads, paths and pavings",default,
+Ss_30_75_45_80,Single unit traffic calming systems,8.5.1,Site/street furniture and equipment,,
+Ss_30_75_45_85,Traffic kerb systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_75_45_86,Traffic separation systems,8.2.1,"Roads, paths and pavings",default,unique
+Ss_30_75_50_05,Aluminium sheet gutter lining systems,2.3.4,Roof drainage,default,unique
+Ss_30_75_50_15,Copper sheet gutter lining systems,2.3.4,Roof drainage,default,unique
+Ss_30_75_50_45,Lead sheet gutter lining systems,2.3.4,Roof drainage,default,unique
+Ss_30_75_50_75,Stainless steel sheet gutter lining systems,2.3.4,Roof drainage,default,unique
+Ss_30_75_50_95,Zinc sheet gutter lining systems,2.3.4,Roof drainage,default,unique
+Ss_32_20_20_15,Chemical injection damp-proof course systems,7.3.1,Damp-proof courses,default,unique
+Ss_32_20_20_62,Physical insertion horizontal damp-proof course systems,7.3.1,Damp-proof courses,default,unique
+Ss_32_20_20_63,Physical insertion horizontal or stepped cavity tray systems,7.3.1,Damp-proof courses,default,unique
+Ss_32_20_20_64,Physical insertion proprietary rising damp remedial systems,7.3.1,Damp-proof courses,default,unique
+Ss_32_20_20_65,Physical insertion vertical damp-proof course systems,7.3.1,Damp-proof courses,default,unique
+Ss_32_20_30_10,Cementitious mortar slurry floor damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_10,Cementitious mortar slurry floor damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_15,Cold-applied liquid floor damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_15,Cold-applied liquid floor damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_30,Fully-bonded bitumen membrane overslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_30,Fully-bonded bitumen membrane overslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_35,Fully-bonded bitumen membrane underslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_35,Fully-bonded bitumen membrane underslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_40,Hot-applied liquid floor damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_40,Hot-applied liquid floor damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_45,Loose-laid bitumen membrane overslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_45,Loose-laid bitumen membrane overslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_46,Loose-laid bitumen membrane underslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_46,Loose-laid bitumen membrane underslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_48,Loose-laid polyethylene membrane oversite damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_48,Loose-laid polyethylene membrane oversite damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_50,Loose-laid polyethylene membrane overslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_50,Loose-laid polyethylene membrane overslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_51,Loose-laid polyethylene membrane underslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_51,Loose-laid polyethylene membrane underslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_55,Mastic asphalt floor damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_55,Mastic asphalt floor damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_60,Plastics studded membrane floor damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_60,Plastics studded membrane floor damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_65,Pre-applied anchored membrane underslab damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_65,Pre-applied anchored membrane underslab damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_30_75,Self-adhesive bitumen membrane floor damp-proofing systems,1.1.3,Lowest floor construction,default,
+Ss_32_20_30_75,Self-adhesive bitumen membrane floor damp-proofing systems,2.2.1,Floors,,
+Ss_32_20_95_10,Cementitious mortar slurry internal wall damp-proofing systems,1.1.5,Basement retaining walls,,
+Ss_32_20_95_10,Cementitious mortar slurry internal wall damp-proofing systems,1.1.1,Standard foundations,default,
+Ss_32_20_95_15,Cold-applied liquid internal wall damp-proofing systems,1.1.5,Basement retaining walls,,
+Ss_32_20_95_15,Cold-applied liquid internal wall damp-proofing systems,7.3.1,Damp-proof courses,,
+Ss_32_20_95_15,Cold-applied liquid internal wall damp-proofing systems,1.1.1,Standard foundations,default,
+Ss_32_20_95_65,Plastics studded membrane internal wall damp-proofing systems,1.1.5,Basement retaining walls,,
+Ss_32_20_95_65,Plastics studded membrane internal wall damp-proofing systems,1.1.1,Standard foundations,default,
+Ss_32_46_50_05,Anchored mesh reinforcement systems,8.4.2,Walls and screens,,
+Ss_32_46_50_05,Anchored mesh reinforcement systems,2.5.1,External enclosing walls above ground level,default,
+Ss_32_46_50_05,Anchored mesh reinforcement systems,3.1.1,Wall finishes,,
+Ss_32_46_50_05,Anchored mesh reinforcement systems,8.4.3,Retaining walls,,
+Ss_32_46_50_05,Anchored mesh reinforcement systems,2.5.4,External soffits,,
+Ss_32_46_50_50,Metal lathing casing systems,8.4.2,Walls and screens,,
+Ss_32_46_50_50,Metal lathing casing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_32_46_50_50,Metal lathing casing systems,3.1.1,Wall finishes,,
+Ss_32_46_50_50,Metal lathing casing systems,8.4.3,Retaining walls,,
+Ss_32_46_50_50,Metal lathing casing systems,2.5.4,External soffits,,
+Ss_32_46_50_51,Metal lathing on framing systems,8.4.2,Walls and screens,,
+Ss_32_46_50_51,Metal lathing on framing systems,2.5.1,External enclosing walls above ground level,default,
+Ss_32_46_50_51,Metal lathing on framing systems,3.1.1,Wall finishes,,
+Ss_32_46_50_51,Metal lathing on framing systems,8.4.3,Retaining walls,,
+Ss_32_46_50_51,Metal lathing on framing systems,2.5.4,External soffits,,
+Ss_32_46_50_52,"Metal lathing on hangers, bearers and runners systems",8.4.2,Walls and screens,,
+Ss_32_46_50_52,"Metal lathing on hangers, bearers and runners systems",2.5.1,External enclosing walls above ground level,default,
+Ss_32_46_50_52,"Metal lathing on hangers, bearers and runners systems",3.1.1,Wall finishes,,
+Ss_32_46_50_52,"Metal lathing on hangers, bearers and runners systems",8.4.3,Retaining walls,,
+Ss_32_46_50_52,"Metal lathing on hangers, bearers and runners systems",2.5.4,External soffits,,
+Ss_32_46_50_53,Metal lathing on solid substrate systems,8.4.2,Walls and screens,,
+Ss_32_46_50_53,Metal lathing on solid substrate systems,2.5.1,External enclosing walls above ground level,default,
+Ss_32_46_50_53,Metal lathing on solid substrate systems,3.1.1,Wall finishes,,
+Ss_32_46_50_53,Metal lathing on solid substrate systems,8.4.3,Retaining walls,,
+Ss_32_46_50_53,Metal lathing on solid substrate systems,2.5.4,External soffits,,
+Ss_32_46_65_15,Clay plaster systems,3.1.1,Wall finishes,default,unique
+Ss_32_46_65_55,Multicoat plaster systems,3.1.1,Wall finishes,default,unique
+Ss_32_46_65_58,One coat plaster systems,3.1.1,Wall finishes,default,unique
+Ss_32_46_65_90,Tiling and mosaic plaster substrate systems,3.1.1,Wall finishes,default,unique
+Ss_32_80_03_10,Cementitious proprietary mortar slurry tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_10,Cementitious proprietary mortar slurry tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_10,Cementitious proprietary mortar slurry tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_10,Cementitious proprietary mortar slurry tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_10,Cementitious proprietary mortar slurry tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_12,Cementitious site-batched-and-mixed mortar tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_12,Cementitious site-batched-and-mixed mortar tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_12,Cementitious site-batched-and-mixed mortar tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_12,Cementitious site-batched-and-mixed mortar tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_12,Cementitious site-batched-and-mixed mortar tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_14,Cold-applied liquid external tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_14,Cold-applied liquid external tanking systems,1.1.5,Basement retaining walls,default,
+Ss_32_80_03_14,Cold-applied liquid external tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_14,Cold-applied liquid external tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_14,Cold-applied liquid external tanking systems,1.1.3,Lowest floor construction,,
+Ss_32_80_03_16,Cold-applied liquid sandwiched tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_16,Cold-applied liquid sandwiched tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_16,Cold-applied liquid sandwiched tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_16,Cold-applied liquid sandwiched tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_16,Cold-applied liquid sandwiched tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_18,Crystallization-active cementitious mortar dry shake tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_18,Crystallization-active cementitious mortar dry shake tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_18,Crystallization-active cementitious mortar dry shake tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_18,Crystallization-active cementitious mortar dry shake tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_18,Crystallization-active cementitious mortar dry shake tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_20,Crystallization-active cementitious mortar slurry tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_20,Crystallization-active cementitious mortar slurry tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_20,Crystallization-active cementitious mortar slurry tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_20,Crystallization-active cementitious mortar slurry tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_20,Crystallization-active cementitious mortar slurry tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_50,Mastic asphalt external tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_50,Mastic asphalt external tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_50,Mastic asphalt external tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_50,Mastic asphalt external tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_50,Mastic asphalt external tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_52,Mastic asphalt sandwiched tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_03_52,Mastic asphalt sandwiched tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_03_52,Mastic asphalt sandwiched tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_03_52,Mastic asphalt sandwiched tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_03_52,Mastic asphalt sandwiched tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,8.6.2,Ancillary drainage systems,,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,5.14.1,Builder's work in connection with services,,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,5.3.2,"Chemical, toxic and industrial liquid waste drainage",,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,8.5.2,Ornamental features,,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,2.2.1,Floors,,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_32_80_03_54,Mastic asphalt tank lining systems,5.13.5,Water features,,
+Ss_32_80_79_30,Fully bonded bitumen membrane external tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_79_30,Fully bonded bitumen membrane external tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_79_30,Fully bonded bitumen membrane external tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_79_30,Fully bonded bitumen membrane external tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_79_30,Fully bonded bitumen membrane external tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_79_32,Fully bonded bitumen membrane sandwiched tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_79_32,Fully bonded bitumen membrane sandwiched tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_79_32,Fully bonded bitumen membrane sandwiched tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_79_32,Fully bonded bitumen membrane sandwiched tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_79_32,Fully bonded bitumen membrane sandwiched tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_79_35,Ground supported water retention sheet lining systems,1.1.3,Lowest floor construction,,unique
+Ss_32_80_79_40,High density plastics studded membrane cavity drain waterproofing systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_79_40,High density plastics studded membrane cavity drain waterproofing systems,1.1.5,Basement retaining walls,default,
+Ss_32_80_79_40,High density plastics studded membrane cavity drain waterproofing systems,1.1.1,Standard foundations,,
+Ss_32_80_79_40,High density plastics studded membrane cavity drain waterproofing systems,1.1.3,Lowest floor construction,,
+Ss_32_80_79_45,Loose-laid bentonite membrane external or sandwiched tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_79_45,Loose-laid bentonite membrane external or sandwiched tanking systems,1.1.5,Basement retaining walls,,
+Ss_32_80_79_45,Loose-laid bentonite membrane external or sandwiched tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_79_45,Loose-laid bentonite membrane external or sandwiched tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_79_45,Loose-laid bentonite membrane external or sandwiched tanking systems,1.1.3,Lowest floor construction,default,
+Ss_32_80_79_75,Self-adhesive bitumen membrane external tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_79_75,Self-adhesive bitumen membrane external tanking systems,1.1.5,Basement retaining walls,default,
+Ss_32_80_79_75,Self-adhesive bitumen membrane external tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_79_75,Self-adhesive bitumen membrane external tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_79_75,Self-adhesive bitumen membrane external tanking systems,1.1.3,Lowest floor construction,,
+Ss_32_80_79_77,Self-adhesive bitumen membrane sandwiched tanking systems,2.5.2,External enclosing walls below ground level,,
+Ss_32_80_79_77,Self-adhesive bitumen membrane sandwiched tanking systems,1.1.5,Basement retaining walls,default,
+Ss_32_80_79_77,Self-adhesive bitumen membrane sandwiched tanking systems,7.3.1,Damp-proof courses,,
+Ss_32_80_79_77,Self-adhesive bitumen membrane sandwiched tanking systems,1.1.1,Standard foundations,,
+Ss_32_80_79_77,Self-adhesive bitumen membrane sandwiched tanking systems,1.1.3,Lowest floor construction,,
+Ss_32_80_79_85,Structure supported water retention sheet lining systems,2.2.2,Balconies,,
+Ss_32_80_79_85,Structure supported water retention sheet lining systems,1.1.3,Lowest floor construction,,
+Ss_32_80_79_85,Structure supported water retention sheet lining systems,2.2.1,Floors,,
+Ss_32_80_79_85,Structure supported water retention sheet lining systems,2.3.3,Specialist roof systems,default,
+Ss_35_10_25_35,Ground bearing external stair systems,2.5.6,Facade access/cleaning systems,,
+Ss_35_10_25_35,Ground bearing external stair systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_30_15,Companionway ladder systems,2.5.6,Facade access/cleaning systems,,
+Ss_35_10_30_15,Companionway ladder systems,2.4.4,Ladders/chutes/slides,default,
+Ss_35_10_30_40,Industrial stair systems,2.4.4,Ladders/chutes/slides,default,
+Ss_35_10_30_40,Industrial stair systems,2.4.1,Stair/ramp structures,,
+Ss_35_10_30_60,Permanently-fixed roof ladder systems,2.5.6,Facade access/cleaning systems,,
+Ss_35_10_30_60,Permanently-fixed roof ladder systems,2.4.4,Ladders/chutes/slides,default,
+Ss_35_10_30_62,Permanently-fixed vertical ladder systems,2.5.6,Facade access/cleaning systems,,
+Ss_35_10_30_62,Permanently-fixed vertical ladder systems,2.4.4,Ladders/chutes/slides,default,
+Ss_35_10_30_95,Working platform and walkway systems,2.5.6,Facade access/cleaning systems,default,
+Ss_35_10_30_95,Working platform and walkway systems,2.4.4,Ladders/chutes/slides,,
+Ss_35_10_40_20,Curved internal stair systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_40_20,Curved internal stair systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_40_40,Internal ramp systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_40_40,Internal ramp systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_40_42,Internal stair systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_40_42,Internal stair systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_40_84,Straight internal stair systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_40_84,Straight internal stair systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_85_15,Concrete stair or ramp systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_85_15,Concrete stair or ramp systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_85_35,Heavy steel stair or ramp systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_85_35,Heavy steel stair or ramp systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_85_65,Precast concrete stair or ramp systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_85_65,Precast concrete stair or ramp systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_10_85_90,Timber stair or ramp systems,2.4.1,Stair/ramp structures,default,
+Ss_35_10_85_90,Timber stair or ramp systems,2.4.3,Stair/ramp balustrades and handrails,,
+Ss_35_30_15_15,Concrete stair tread glazing systems,2.2.2,Balconies,,
+Ss_35_30_15_15,Concrete stair tread glazing systems,2.4.1,Stair/ramp structures,default,
+Ss_35_40_82_05,Adhesive-fixed stair carpeting systems,2.4.2,Stair/ramp finishes,default,
+Ss_35_40_82_05,Adhesive-fixed stair carpeting systems,3.2.1,Finishes to floors,,
+Ss_37_14_70_08,Built-in linen chute systems,2.4.4,Ladders/chutes/slides,default,unique
+Ss_37_14_70_10,Built-in refuse chute systems,5.3.3,Refuse disposal,default,unique
+Ss_37_14_70_63,Post-fixed linen chute systems,2.4.4,Ladders/chutes/slides,default,unique
+Ss_37_14_70_65,Post-fixed refuse chute systems,2.4.4,Ladders/chutes/slides,default,unique
+Ss_37_16_65_40,Informal pond systems,8.3.3,Irrigation systems,,
+Ss_37_16_65_40,Informal pond systems,8.6.2,Ancillary drainage systems,,
+Ss_37_16_65_40,Informal pond systems,8.5.2,Ornamental features,default,
+Ss_37_16_65_40,Informal pond systems,5.13.5,Water features,,
+Ss_37_16_65_70,Raised formal pond systems,8.3.3,Irrigation systems,,
+Ss_37_16_65_70,Raised formal pond systems,8.6.2,Ancillary drainage systems,,
+Ss_37_16_65_70,Raised formal pond systems,8.5.2,Ornamental features,default,
+Ss_37_16_65_70,Raised formal pond systems,5.13.5,Water features,,
+Ss_37_16_65_85,Submerged formal pond systems,8.3.3,Irrigation systems,,
+Ss_37_16_65_85,Submerged formal pond systems,8.6.2,Ancillary drainage systems,,
+Ss_37_16_65_85,Submerged formal pond systems,8.5.2,Ornamental features,default,
+Ss_37_16_65_85,Submerged formal pond systems,5.13.5,Water features,,
+Ss_37_16_65_95,Wetland systems,8.3.3,Irrigation systems,,
+Ss_37_16_65_95,Wetland systems,8.6.2,Ancillary drainage systems,default,
+Ss_37_16_65_95,Wetland systems,8.5.2,Ornamental features,,
+Ss_37_16_90_28,External underground service duct systems,8.7.11,Builder's work in connection with external services,default,unique
+Ss_37_17_13_50,Masonry chimney stack systems,2.7.1,Walls and partitions,,
+Ss_37_17_13_50,Masonry chimney stack systems,2.5.1,External enclosing walls above ground level,default,
+Ss_37_17_13_50,Masonry chimney stack systems,5.5.1,Heat source,,
+Ss_37_17_13_50,Masonry chimney stack systems,2.3.1,Roof structure,,
+Ss_37_40_85_83,Swimming pool floor tiling systems,3.2.1,Finishes to floors,default,unique
+Ss_37_40_85_85,Swimming pool wall tiling systems,3.1.1,Wall finishes,default,unique
+Ss_40_10_25_25,Electrical external signage systems,8.7.9,External street lighting systems,default,
+Ss_40_10_25_25,Electrical external signage systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_10_25_30,Fixed external signage systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_10_25_32,Free-standing external architectural signage systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_10_30_75,Safety signage systems,5.8.3,Lighting installations,,
+Ss_40_10_30_75,Safety signage systems,4.1.4,Signs/notices,default,
+Ss_40_10_30_75,Safety signage systems,8.7.9,External street lighting systems,,
+Ss_40_10_30_75,Safety signage systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_10_40_25,Electrical internal architectural signage systems,5.8.3,Lighting installations,default,unique
+Ss_40_10_40_30,Fixed internal architectural signage systems,4.1.4,Signs/notices,default,unique
+Ss_40_10_40_32,Free-standing internal architectural signage systems,4.1.4,Signs/notices,default,unique
+Ss_40_15_25_15,Commercial catering FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,unique
+Ss_40_15_25_20,Domestic catering FF&E systems,4.1.2,Domestic kitchen fittings and equipment,default,unique
+Ss_40_15_35_35,General FF&E systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_40_15_35_50,Minor joinery systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_40_15_46_15,Commercial laundry FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,unique
+Ss_40_15_46_20,Domestic laundry FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,unique
+Ss_40_15_75_05,Bath systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_10,Bidet systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_20,Disposal unit (slop hopper) systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_25,Drinking fountain systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_35,Health care macerator systems,5.1.2,Sanitary ancillaries,default,unique
+Ss_40_15_75_45,Janitorial unit systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_75,Sanitary accessory systems,5.1.2,Sanitary ancillaries,default,unique
+Ss_40_15_75_76,Sauna package systems,5.13.3,Specialist mechanical installations,default,unique
+Ss_40_15_75_77,Scrub-up trough systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_78,Shower area systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_79,Shower cubicle systems,5.1.2,Sanitary ancillaries,default,unique
+Ss_40_15_75_80,Sink systems,5.1.1,Sanitary appliances,,unique
+Ss_40_15_75_85,Steam bath package systems,5.13.3,Specialist mechanical installations,default,unique
+Ss_40_15_75_92,Urinal systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_94,Wash basin systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_96,Wash fountain systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_75_98,Wash trough systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_90_05,Accessible WC package systems,5.1.2,Sanitary ancillaries,default,
+Ss_40_15_90_05,Accessible WC package systems,5.1.1,Sanitary appliances,,
+Ss_40_15_90_85,Squatting WC systems,5.1.2,Sanitary ancillaries,default,unique
+Ss_40_15_90_95,Waterless toilet systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_90_96, WC and wash basin combination systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_90_97,WC systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_15_90_98,WC wash and dry combination systems,5.1.1,Sanitary appliances,default,unique
+Ss_40_20_01_60,Office FF&E systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_40_20_30_01,Acceptance and dispensing systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_20_30_20,Cycle parking equipment systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_20_30_28,External furniture systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_20_30_30,Fixed bin systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_20_30_65,Playground equipment systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_20_30_65,Playground equipment systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_25_20_04,Artwork systems,8.5.2,Ornamental features,default,unique
+Ss_40_25_20_05,Auditorium FF&E systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_40_25_26_15,Classroom FF&E systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_40_25_75_45,Laboratory FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,unique
+Ss_40_30_85_55,Netting systems,2.5.6,Facade access/cleaning systems,default,
+Ss_40_30_85_55,Netting systems,8.4.4,Barriers and guardrails,,
+Ss_40_70_60_15,Competitive swimming pool FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,
+Ss_40_70_60_15,Competitive swimming pool FF&E systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_70_60_25,Diving pool FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,
+Ss_40_70_60_25,Diving pool FF&E systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_70_60_45,Leisure swimming pool FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,
+Ss_40_70_60_45,Leisure swimming pool FF&E systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_70_60_62,Pool transfer aid equipment systems,4.1.3,"Special purpose fittings, furnishings and equipment",default,unique
+Ss_40_70_75_05,Ball court FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_70_75_05,Ball court FF&E systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_70_75_20,Cycle course FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_70_75_20,Cycle course FF&E systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_70_75_27,Equestrian equipment systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_70_75_27,Equestrian equipment systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_70_75_80,Skate park FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_70_75_80,Skate park FF&E systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_70_75_85,Sports pitch FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_70_75_85,Sports pitch FF&E systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_70_75_90,Trim trail FF&E systems,4.1.3,"Special purpose fittings, furnishings and equipment",,
+Ss_40_70_75_90,Trim trail FF&E systems,8.5.1,Site/street furniture and equipment,default,
+Ss_40_85_72_11,Car park equipment systems,8.5.1,Site/street furniture and equipment,default,unique
+Ss_40_90_40_40,Intumescent casting systems,2.1.1,Steel frames,default,
+Ss_40_90_40_40,Intumescent casting systems,2.1.2,Space frames/decks,,
+Ss_40_90_40_40,Intumescent casting systems,2.1.6,Specialist frames,,
+Ss_40_90_40_42,Intumescent coating systems,2.1.1,Steel frames,default,
+Ss_40_90_40_42,Intumescent coating systems,2.1.2,Space frames/decks,,
+Ss_40_90_40_42,Intumescent coating systems,2.1.6,Specialist frames,,
+Ss_40_90_60_05,Anti-graffiti coating systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_05,Anti-graffiti coating systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_05,Anti-graffiti coating systems,2.5.1,External enclosing walls above ground level,,
+Ss_40_90_60_05,Anti-graffiti coating systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_05,Anti-graffiti coating systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_05,Anti-graffiti coating systems,2.6.1,External windows,,
+Ss_40_90_60_05,Anti-graffiti coating systems,,External doors,,
+Ss_40_90_60_05,Anti-graffiti coating systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,,External windows,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,2.6.2,External doors,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,2.8.1,Internal doors,,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_20,Decorative varnish or lacquer systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_22,Decorative wood stain or dye systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,,External windows,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,2.6.2,External doors,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,2.8.1,Internal doors,,
+Ss_40_90_60_22,Decorative wood stain or dye systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_22,Decorative wood stain or dye systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_55,Multi-colour coating systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_55,Multi-colour coating systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_55,Multi-colour coating systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_55,Multi-colour coating systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_55,Multi-colour coating systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_55,Multi-colour coating systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_55,Multi-colour coating systems,,External windows,,
+Ss_40_90_60_55,Multi-colour coating systems,2.6.2,External doors,,
+Ss_40_90_60_55,Multi-colour coating systems,2.8.1,Internal doors,,
+Ss_40_90_60_55,Multi-colour coating systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_55,Multi-colour coating systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_60,Oil gilding systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_60,Oil gilding systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_60,Oil gilding systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_60,Oil gilding systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_60,Oil gilding systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_60,Oil gilding systems,2.6.1,External windows,,
+Ss_40_90_60_60,Oil gilding systems,,External doors,,
+Ss_40_90_60_60,Oil gilding systems,2.8.1,Internal doors,,
+Ss_40_90_60_60,Oil gilding systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_60,Oil gilding systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_65,Plastic texture coating systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_65,Plastic texture coating systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_65,Plastic texture coating systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_65,Plastic texture coating systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_65,Plastic texture coating systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_80,Solvent-borne paint systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_80,Solvent-borne paint systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_80,Solvent-borne paint systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_80,Solvent-borne paint systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_80,Solvent-borne paint systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_80,Solvent-borne paint systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_80,Solvent-borne paint systems,,External windows,,
+Ss_40_90_60_80,Solvent-borne paint systems,2.6.2,External doors,,
+Ss_40_90_60_80,Solvent-borne paint systems,2.8.1,Internal doors,,
+Ss_40_90_60_80,Solvent-borne paint systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_80,Solvent-borne paint systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_85,Special coating systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_85,Special coating systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_85,Special coating systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_85,Special coating systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_85,Special coating systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_85,Special coating systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_85,Special coating systems,,External windows,,
+Ss_40_90_60_85,Special coating systems,2.6.2,External doors,,
+Ss_40_90_60_85,Special coating systems,2.8.1,Internal doors,,
+Ss_40_90_60_85,Special coating systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_85,Special coating systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_60_95,Water-borne paint systems,2.4.2,Stair/ramp finishes,,
+Ss_40_90_60_95,Water-borne paint systems,3.2.1,Finishes to floors,,
+Ss_40_90_60_95,Water-borne paint systems,5.14.1,Builder's work in connection with services,,
+Ss_40_90_60_95,Water-borne paint systems,8.4.1,Fencing and railings,,
+Ss_40_90_60_95,Water-borne paint systems,3.1.1,Wall finishes,default,
+Ss_40_90_60_95,Water-borne paint systems,3.3.1,Finishes to ceilings,,
+Ss_40_90_60_95,Water-borne paint systems,,External windows,,
+Ss_40_90_60_95,Water-borne paint systems,2.6.2,External doors,,
+Ss_40_90_60_95,Water-borne paint systems,2.8.1,Internal doors,,
+Ss_40_90_60_95,Water-borne paint systems,4.1.1,"General fittings, furnishings and equipment",,
+Ss_40_90_60_95,Water-borne paint systems,8.5.1,Site/street furniture and equipment,,
+Ss_40_90_95_30,Fire retardant treatment systems,2.3.2,Roof coverings,,
+Ss_40_90_95_30,Fire retardant treatment systems,2.1.5,Timber frames,default,
+Ss_40_90_95_30,Fire retardant treatment systems,2.5.1,External enclosing walls above ground level,,
+Ss_40_90_95_30,Fire retardant treatment systems,8.4.1,Fencing and railings,,
+Ss_40_90_95_30,Fire retardant treatment systems,2.6.1,External windows,,
+Ss_40_90_95_30,Fire retardant treatment systems,2.3.1,Roof structure,,
+Ss_40_90_95_30,Fire retardant treatment systems,,External doors,,
+Ss_40_90_95_65,Preservative treatment systems,2.3.2,Roof coverings,,
+Ss_40_90_95_65,Preservative treatment systems,2.1.5,Timber frames,,
+Ss_40_90_95_65,Preservative treatment systems,2.5.1,External enclosing walls above ground level,,
+Ss_40_90_95_65,Preservative treatment systems,8.4.1,Fencing and railings,default,
+Ss_40_90_95_65,Preservative treatment systems,2.6.1,External windows,,
+Ss_40_90_95_65,Preservative treatment systems,2.3.1,Roof structure,,
+Ss_40_90_95_65,Preservative treatment systems,,External doors,,
+Ss_45_10_10_04,Animal control systems,4.1.8,Bird and vermin control,default,unique
+Ss_45_10_10_10,Bird control systems,4.1.8,Bird and vermin control,default,unique
+Ss_45_10_10_40,Insect control systems,4.1.8,Bird and vermin control,default,unique
+Ss_45_10_10_72,Rodent control systems,4.1.8,Bird and vermin control,default,unique
+Ss_45_10_95_50,"Moss, algae and lichen control systems",8.3.2,External planting,default,unique
+Ss_45_10_95_72,Rooted plants on hard surfaces control systems,4.1.7,Internal planting,,
+Ss_45_10_95_72,Rooted plants on hard surfaces control systems,8.3.2,External planting,default,
+Ss_45_10_95_80,Selective vegetation control systems,8.3.2,External planting,default,unique
+Ss_45_10_95_81,Self-clinging plants on hard surfaces control systems,7.5.1,Cleaning,,
+Ss_45_10_95_81,Self-clinging plants on hard surfaces control systems,8.2.1,"Roads, paths and pavings",default,
+Ss_45_10_95_83,Site vegetation control systems,0.1.3,Eradication of plant growth,,
+Ss_45_10_95_83,Site vegetation control systems,8.3.2,External planting,default,
+Ss_45_10_95_95,Waterborne vegetation control systems,0.1.3,Eradication of plant growth,,
+Ss_45_10_95_95,Waterborne vegetation control systems,8.3.2,External planting,default,
+Ss_45_30_05_05,Aquatic planting systems,4.1.7,Internal planting,,
+Ss_45_30_05_05,Aquatic planting systems,8.3.2,External planting,default,
+Ss_45_30_05_50,Marginal planting systems,8.3.2,External planting,default,unique
+Ss_45_30_05_70,Reedbed planting systems,8.3.2,External planting,default,unique
+Ss_45_35_05_08,"Bed-planted annual, perennial and bulb systems",8.3.2,External planting,default,unique
+Ss_45_35_05_35,Grass-planted bulb and wildflower systems,8.3.2,External planting,default,unique
+Ss_45_35_05_62,Pit-planted climber systems,4.1.7,Internal planting,,
+Ss_45_35_05_62,Pit-planted climber systems,8.3.2,External planting,default,
+Ss_45_35_05_64,Pit-planted perennial systems,4.1.7,Internal planting,,
+Ss_45_35_05_64,Pit-planted perennial systems,8.3.2,External planting,default,
+Ss_45_35_05_66,Pit-planted large tree systems,4.1.7,Internal planting,,
+Ss_45_35_05_66,Pit-planted large tree systems,8.3.2,External planting,default,
+Ss_45_35_05_67,Pit-planted small tree and shrub systems,4.1.7,Internal planting,,
+Ss_45_35_05_67,Pit-planted small tree and shrub systems,8.3.2,External planting,default,
+Ss_45_35_30_40,Hydraulic seeded tree and shrub systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_30_55,Notch-planted tree and shrub systems,8.3.2,External planting,default,unique
+Ss_45_35_30_62,Pit-planted tree and shrub systems,8.3.2,External planting,default,unique
+Ss_45_35_30_72,Ridge and furrow-planted tree and shrub systems,8.3.2,External planting,default,unique
+Ss_45_35_30_75,Seeded tree and shrub systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_30_90,Trench-planted tree and shrub systems,8.3.2,External planting,default,unique
+Ss_45_35_45_33,Grass and wildflower seeding systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_45_35,Grass seeding systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_45_40,Hydraulic seeding systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_45_62,Plastics paving and turf systems,8.2.2,Special surfacings and pavings,,
+Ss_45_35_45_62,Plastics paving and turf systems,8.3.1,Seeding and turfing,default,
+Ss_45_35_45_65,Pre-seeded mat systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_45_70,Reinforced grass planting systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_35_45_90,Turf planting systems,8.3.1,Seeding and turfing,default,unique
+Ss_45_40_28_32,Free standing external container planting systems,8.3.2,External planting,default,unique
+Ss_45_40_28_35,Hanging container planting systems,8.3.2,External planting,default,unique
+Ss_45_40_28_85,External planting systems,8.3.2,External planting,default,unique
+Ss_45_40_40_32,Free standing internal container planting systems,4.1.7,Internal planting,default,unique
+Ss_45_40_40_41,Internal hanging container planting systems,4.1.7,Internal planting,default,unique
+Ss_45_40_40_42,Internal planter systems,4.1.7,Internal planting,default,unique
+Ss_45_40_47_09,Brown roof systems,2.3.2,Roof coverings,default,unique
+Ss_45_40_47_28,Extensive green roof systems,2.3.2,Roof coverings,default,unique
+Ss_45_40_47_40,Intensive green roof systems,2.3.2,Roof coverings,default,unique
+Ss_45_40_47_75,Semi-intensive green roof systems,2.3.2,Roof coverings,default,unique
+Ss_45_40_95_08,Biofiltration vertical planting systems,4.1.7,Internal planting,default,
+Ss_45_40_95_08,Biofiltration vertical planting systems,8.3.2,External planting,,
+Ss_45_40_95_52,Membranous vertical planting systems,4.1.7,Internal planting,default,
+Ss_45_40_95_52,Membranous vertical planting systems,8.3.2,External planting,,
+Ss_45_40_95_54,Modular unit vertical planting systems,4.1.7,Internal planting,default,
+Ss_45_40_95_54,Modular unit vertical planting systems,8.3.2,External planting,,
+Ss_45_50_05_40,Internal artificial planting systems,4.1.7,Internal planting,default,
+Ss_45_50_05_40,Internal artificial planting systems,8.3.2,External planting,,
+Ss_45_70_05_29,Animal species introduction systems,0.6.2,Reptile/wildlife mitigation measures,default,unique
+Ss_45_70_05_30,Animal species protection systems,0.6.2,Reptile/wildlife mitigation measures,default,unique
+Ss_50_30_02_28,External gravity rainwater drainage systems,2.3.4,Roof drainage,default,unique
+Ss_50_30_02_40,Internal gravity rainwater drainage systems,2.3.4,Roof drainage,default,unique
+Ss_50_30_02_65,Pressure-assisted full bore rainwater drainage systems,2.2.3,Drainage to balconies,,
+Ss_50_30_02_65,Pressure-assisted full bore rainwater drainage systems,2.3.4,Roof drainage,default,
+Ss_50_30_02_80,Siphonic full bore rainwater drainage systems,2.2.3,Drainage to balconies,,
+Ss_50_30_02_80,Siphonic full bore rainwater drainage systems,2.3.4,Roof drainage,default,
+Ss_50_30_04_05,Basement waste water drainage systems,5.3.1,Foul drainage above ground,default,
+Ss_50_30_04_05,Basement waste water drainage systems,5.3.2,"Chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_04_15,Commercial catering waste water drainage systems,5.3.1,Foul drainage above ground,default,
+Ss_50_30_04_15,Commercial catering waste water drainage systems,5.3.2,"Chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_04_95,Above ground external stack wastewater drainage systems,5.3.1,Foul drainage above ground,default,
+Ss_50_30_04_95,Above ground external stack wastewater drainage systems,5.3.2,"Chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_04_97,Above ground internal stack wastewater drainage systems,5.3.1,Foul drainage above ground,default,
+Ss_50_30_04_97,Above ground internal stack wastewater drainage systems,5.3.2,"Chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_06,Brick manhole systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_06,Brick manhole systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_06,Brick manhole systems,8.6.4,Land drainage,,
+Ss_50_30_06_06,Brick manhole systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_08,Brick shallow inspection chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_08,Brick shallow inspection chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_08,Brick shallow inspection chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_08,Brick shallow inspection chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_10,Brick shallow silt trap and flow control chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_10,Brick shallow silt trap and flow control chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_10,Brick shallow silt trap and flow control chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_10,Brick shallow silt trap and flow control chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_12,Concrete deep manhole systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_12,Concrete deep manhole systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_12,Concrete deep manhole systems,8.6.4,Land drainage,,
+Ss_50_30_06_12,Concrete deep manhole systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_14,Concrete manhole systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_14,Concrete manhole systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_14,Concrete manhole systems,8.6.4,Land drainage,,
+Ss_50_30_06_14,Concrete manhole systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_16,Concrete shallow inspection chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_16,Concrete shallow inspection chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_16,Concrete shallow inspection chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_16,Concrete shallow inspection chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_18,Concrete silt trap and flow control chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_18,Concrete silt trap and flow control chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_18,Concrete silt trap and flow control chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_18,Concrete silt trap and flow control chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_62,Plastics deep non-entry inspection chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_62,Plastics deep non-entry inspection chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_62,Plastics deep non-entry inspection chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_62,Plastics deep non-entry inspection chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_64,Plastics distribution and sampling chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_64,Plastics distribution and sampling chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_64,Plastics distribution and sampling chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_64,Plastics distribution and sampling chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_06_66,Plastics shallow inspection chamber systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_06_66,Plastics shallow inspection chamber systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_06_66,Plastics shallow inspection chamber systems,8.6.4,Land drainage,,
+Ss_50_30_06_66,Plastics shallow inspection chamber systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_08_30,Foul waste water below-ground drainage pipeline systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_08_30,Foul waste water below-ground drainage pipeline systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_08_30,Foul waste water below-ground drainage pipeline systems,8.6.3,"External chemical, toxic and industrial liquid waste drainage",,
+Ss_50_30_08_85,Surface water below-ground drainage pipeline systems,8.6.1,Surface water and foul water drainage,default,
+Ss_50_30_08_85,Surface water below-ground drainage pipeline systems,8.6.2,Ancillary drainage systems,,
+Ss_50_30_08_85,Surface water below-ground drainage pipeline systems,8.6.4,Land drainage,,
+Ss_50_30_10_06,Below-ground private packaged pumping station and pressure pipeline drainage systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_30_45_08,Blanket drain land drainage systems,8.6.4,Land drainage,default,unique
+Ss_50_30_45_20,Culvert land drainage systems,8.6.4,Land drainage,default,unique
+Ss_50_30_45_30,Filter drain land drainage systems,8.6.4,Land drainage,default,unique
+Ss_50_30_45_32,Fin drain piped land drainage systems,8.6.4,Land drainage,default,unique
+Ss_50_30_45_53,Mole or subsoiling drain land drainage systems,0.4.1,Site dewatering and pumping,,
+Ss_50_30_45_53,Mole or subsoiling drain land drainage systems,8.6.4,Land drainage,default,
+Ss_50_30_45_75,Slitting or grooving land drainage systems,0.4.1,Site dewatering and pumping,,
+Ss_50_30_45_75,Slitting or grooving land drainage systems,8.6.4,Land drainage,default,
+Ss_50_30_45_90,Trenchless drain land drainage systems,0.4.1,Site dewatering and pumping,,
+Ss_50_30_45_90,Trenchless drain land drainage systems,8.6.4,Land drainage,default,
+Ss_50_30_65_08,Blanket drain pressure relief systems,0.4.1,Site dewatering and pumping,,
+Ss_50_30_65_08,Blanket drain pressure relief systems,8.6.4,Land drainage,default,
+Ss_50_30_65_30,Filter drain pressure relief systems,0.4.1,Site dewatering and pumping,,
+Ss_50_30_65_30,Filter drain pressure relief systems,8.6.4,Land drainage,default,
+Ss_50_30_65_35,Geocomposite sheet fin drain pressure relief systems,8.6.4,Land drainage,default,unique
+Ss_50_70_05_20,Below-ground waste water drainage field systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_22,Below-ground drainage packaged grease trap systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_23,Below-ground drainage private packaged septic tank systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_05_24,Below-ground drainage private packaged sewage treatment systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_05_25,Below-ground drainage private packaged storage tank systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_05_79,Below-ground drainage concrete soakaway systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_80,Below-ground drainage granular fill soakaway systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_81,Below-ground drainage modular plastics attenuation or storage tank systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_82,Below-ground drainage modular plastics soakaway systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_83,Below-ground drainage packaged oil and petrol interceptor systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_05_84,Below-ground drainage packaged silt trap systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_85,Below-ground drainage rigid attenuation or storage tank systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_86,Below-ground drainage wet well systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_05_95,Below-ground drainage outfall systems,8.6.1,Surface water and foul water drainage,default,unique
+Ss_50_70_85_00,SuDS management train systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_06,SuDS below ground rigid attenuation storage tank systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_08,SuDS bioretention area systems,8.6.2,Ancillary drainage systems,default,
+Ss_50_70_85_08,SuDS bioretention area systems,8.3.2,External planting,,
+Ss_50_70_85_15,SuDS conveyance swale systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_21,SuDS detention basin systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_24,SuDS dry swale systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_30,SuDS filter strip systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_31,SuDS filter trench systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_33,SuDS geocellular attenuation tank systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_34,SuDS geocellular soakaway systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_35,SuDS granular fill soakaway systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_41,SuDS infiltration basin systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_42,SuDS infiltration trench systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_58,SuDS open channel conveyance systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_61,SuDS permeable pavement systems,8.2.2,Special surfacings and pavings,default,unique
+Ss_50_70_85_66,SuDS precast concrete ring soakaway systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_70,SuDS rainwater harvesting systems,8.6.2,Ancillary drainage systems,default,
+Ss_50_70_85_70,SuDS rainwater harvesting systems,8.7.1,Water mains supply,,
+Ss_50_70_85_70,SuDS rainwater harvesting systems,2.3.4,Roof drainage,,
+Ss_50_70_85_70,SuDS rainwater harvesting systems,5.4.2,Cold water distribution,,
+Ss_50_70_85_72,SuDS retention pond systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_75,SuDS sand filter bed below ground systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_76,SuDS sand filter bed surface systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_96,SuDS water butt systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_97,SuDS wet swale systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_50_70_85_98,SuDS wetland systems,8.6.2,Ancillary drainage systems,default,
+Ss_50_70_85_98,SuDS wetland systems,8.5.2,Ornamental features,,
+Ss_50_70_85_98,SuDS wetland systems,8.3.2,External planting,,
+Ss_55_20_15_42,Industrial compressed air supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_15_51,Medical compressed air supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_33_56,Natural gas distribution network systems,5.9.2,Fuel distribution systems,,
+Ss_55_20_33_56,Natural gas distribution network systems,8.7.5,Gas mains supply,default,
+Ss_55_20_34_05,Biogas supply systems,5.9.1,Fuel storage,,
+Ss_55_20_34_05,Biogas supply systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_55_20_34_05,Biogas supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_20_34_46,Liquefied petroleum gas (LPG) supply systems,5.9.1,Fuel storage,,
+Ss_55_20_34_46,Liquefied petroleum gas (LPG) supply systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_55_20_34_46,Liquefied petroleum gas (LPG) supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_20_34_57,Natural gas supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_20_34_57,Natural gas supply systems,8.7.5,Gas mains supply,default,
+Ss_55_20_45_05,Laboratory argon supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_45_36,Laboratory helium supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_45_39,Laboratory hydrogen supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_45_56,Laboratory nitrogen supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_45_59,Laboratory oxygen supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_51_03,Medical anaesthetic gas scavenging systems,5.7.2,Local and special ventilation,default,unique
+Ss_55_20_51_36,Medical helium/ oxygen mixture supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_51_56,Medical nitrous oxide supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_51_57,Medical nitrous oxide/ oxygen mixture supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_51_59,Medical oxygen supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_20_94_51,Medical vacuum supply systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_55_30_35_10,Carbon dioxide fire extinguishing systems,5.11.2,Fire suppression systems,,unique
+Ss_55_30_35_31,Foam fire extinguishing systems,5.11.1,Fire fighting systems,default,unique
+Ss_55_30_35_35,Halocarbon gas total flooding fire extinguishing systems,5.11.2,Fire suppression systems,default,unique
+Ss_55_30_35_40,Inert gas total flooding fire extinguishing systems,5.11.2,Fire suppression systems,default,unique
+Ss_55_30_65_30,Fire blanket systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_55_30_65_35,Fire bucket systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_55_30_65_65,Portable fire extinguisher systems,4.1.1,"General fittings, furnishings and equipment",default,unique
+Ss_55_30_96_21,Deluge systems,5.11.2,Fire suppression systems,default,unique
+Ss_55_30_96_25,Dry riser systems,5.11.1,Fire fighting systems,default,unique
+Ss_55_30_96_29,Fire hose reel systems,5.11.1,Fire fighting systems,default,unique
+Ss_55_30_96_30,Fire hydrant systems,5.4.1,Mains water supply,default,unique
+Ss_55_30_96_85,Sprinkler systems,5.11.2,Fire suppression systems,default,unique
+Ss_55_30_96_96,Water mist systems,5.11.2,Fire suppression systems,default,unique
+Ss_55_30_96_97,Wet riser systems,5.11.1,Fire fighting systems,default,unique
+Ss_55_40_85,Steam supply and condensate systems,5.4.5,Steam and condensate distribution,default,
+Ss_55_40_85,Steam supply and condensate systems,8.7.10,Local/district heating installations,,
+Ss_55_50_47_21,Diesel supply systems,5.9.1,Fuel storage,,
+Ss_55_50_47_21,Diesel supply systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_55_50_47_21,Diesel supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_50_47_32,Fuel oil supply systems,5.9.1,Fuel storage,,
+Ss_55_50_47_32,Fuel oil supply systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_55_50_47_32,Fuel oil supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_50_47_46,Liquid biofuel supply systems,5.9.1,Fuel storage,,
+Ss_55_50_47_46,Liquid biofuel supply systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_55_50_47_46,Liquid biofuel supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_50_47_61,Petrol supply systems,5.9.1,Fuel storage,,
+Ss_55_50_47_61,Petrol supply systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_55_50_47_61,Petrol supply systems,5.9.2,Fuel distribution systems,,
+Ss_55_70_38_15,Cold water supply systems,5.4.2,Cold water distribution,default,unique
+Ss_55_70_38_20,Direct hot water storage supply systems,5.4.3,Hot water distribution,default,unique
+Ss_55_70_38_42,Indirect hot water storage supply systems,5.4.3,Hot water distribution,default,unique
+Ss_55_70_38_45,Instantaneous hot water supply systems,5.4.4,Local hot water distribution,default,unique
+Ss_55_70_38_65,Pumped cold water supply systems,5.4.2,Cold water distribution,default,unique
+Ss_55_70_42_20,Drip irrigation systems,8.3.3,Irrigation systems,default,
+Ss_55_70_42_20,Drip irrigation systems,5.13.1,Specialist piped supply installations,,
+Ss_55_70_42_50,Manual irrigation systems,8.3.3,Irrigation systems,default,
+Ss_55_70_42_50,Manual irrigation systems,5.13.1,Specialist piped supply installations,,
+Ss_55_70_42_60,Passive irrigation systems,8.3.3,Irrigation systems,default,
+Ss_55_70_42_60,Passive irrigation systems,5.13.1,Specialist piped supply installations,,
+Ss_55_70_42_85,Sprinkler irrigation systems,8.3.3,Irrigation systems,default,
+Ss_55_70_42_85,Sprinkler irrigation systems,5.13.1,Specialist piped supply installations,,
+Ss_55_70_42_87,Sub-irrigation systems,8.3.3,Irrigation systems,default,
+Ss_55_70_42_87,Sub-irrigation systems,5.13.1,Specialist piped supply installations,,
+Ss_55_70_95_50,Mains water distribution network systems,5.4.1,Mains water supply,default,unique
+Ss_55_70_96_15,Cascade and waterfall systems,8.5.2,Ornamental features,,
+Ss_55_70_96_15,Cascade and waterfall systems,5.13.5,Water features,default,
+Ss_55_70_96_31,Fountain and jet systems,8.5.2,Ornamental features,,
+Ss_55_70_96_31,Fountain and jet systems,5.13.5,Water features,default,
+Ss_55_70_96_83,Self-contained water feature systems,8.5.2,Ornamental features,,
+Ss_55_70_96_83,Self-contained water feature systems,5.13.5,Water features,default,
+Ss_55_70_96_96,Water play systems,8.5.2,Ornamental features,,
+Ss_55_70_96_96,Water play systems,5.13.5,Water features,default,
+Ss_55_70_97_35,Grey water reclamation systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_55_70_97_70,Rainwater reclamation systems,8.6.2,Ancillary drainage systems,default,unique
+Ss_55_70_98_85,Swimming pool water treatment systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_60_40_13_13,Climatic beam systems,5.6.5,Central heating and cooling,default,unique
+Ss_60_40_13_14,Climatic ceiling systems,5.6.5,Central heating and cooling,default,unique
+Ss_60_40_15_40,Combined heat and power systems,5.8.5,Local electricity generation systems,default,unique
+Ss_60_40_15_90,Combined underfloor heating and cooling systems,5.6.5,Central heating and cooling,default,unique
+Ss_60_40_17_12,Chilled water systems,5.6.3,Central cooling,default,
+Ss_60_40_17_12,Chilled water systems,5.6.5,Central heating and cooling,,
+Ss_60_40_17_92,Underfloor chilled water systems,5.6.3,Central cooling,default,unique
+Ss_60_40_17_94,Variable refrigerant flow systems,5.6.3,Central cooling,default,unique
+Ss_60_40_36_05,Air source heat pump systems,5.5.1,Heat source,default,unique
+Ss_60_40_36_35,Ground source heat pump systems,5.5.1,Heat source,default,unique
+Ss_60_40_36_96,Water source heat pump systems,5.5.1,Heat source,default,unique
+Ss_60_40_37_21,Direct gas fired heating systems,5.6.2,Local heating,default,unique
+Ss_60_40_37_26,Electric heating systems,5.6.1,Central heating,,
+Ss_60_40_37_26,Electric heating systems,5.6.2,Local heating,default,
+Ss_60_40_37_27,Electric underfloor heating systems,5.6.1,Central heating,default,unique
+Ss_60_40_37_48,Low temperature hot water heating systems,5.6.1,Central heating,default,unique
+Ss_60_40_37_51,Medium temperature hot water heating systems,5.6.1,Central heating,default,unique
+Ss_60_40_37_81,Solar heating systems,5.5.1,Heat source,default,unique
+Ss_60_40_37_94,Underfloor low temperature hot water heating systems,5.6.1,Central heating,default,unique
+Ss_60_60_15_10,Catering cold room systems,5.13.2,Specialist refrigeration systems,default,unique
+Ss_60_60_15_50,Mortuary cold room systems,5.13.2,Specialist refrigeration systems,default,unique
+Ss_65_40_32_32,Fume cupboard extract systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_32_70,Recirculatory fume cupboard systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_32_75,Safety cabinet extract systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_33_45,Kitchen extract ventilation systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_33_50,Mechanical extract ventilation systems,5.7.1,Central ventilation,default,unique
+Ss_65_40_33_51,Mechanical supply ventilation systems,5.7.1,Central ventilation,default,unique
+Ss_65_40_33_56,Natural ventilation systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_33_90,Toilet extract ventilation systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_42_45,Local exhaust ventilation systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_42_95,Vehicle exhaust extract systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_80_65,Pressure differential systems,5.7.3,Smoke extract/control,default,unique
+Ss_65_40_80_80,Smoke and heat exhaust ventilation systems,5.7.3,Smoke extract/control,default,unique
+Ss_65_40_94_10,Car park extract systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_40_94_11,Car park supply systems,5.7.2,Local and special ventilation,default,unique
+Ss_65_80_05_10,Centralized all-air conditioning systems,5.6.7,Central air conditioning,default,unique
+Ss_65_80_05_30,Fan coil unit air conditioning systems,5.6.3,Central cooling,default,
+Ss_65_80_05_30,Fan coil unit air conditioning systems,5.6.1,Central heating,,
+Ss_65_80_05_30,Fan coil unit air conditioning systems,5.6.5,Central heating and cooling,,
+Ss_65_80_05_40,Induction unit air conditioning systems,5.6.7,Central air conditioning,default,unique
+Ss_65_80_45_25,Evaporative cooling systems,5.6.4,Local cooling,default,unique
+Ss_65_80_45_48,Local underfloor air conditioning systems,5.6.8,Local air conditioning,default,unique
+Ss_65_80_45_72,Room air conditioning systems,5.6.8,Local air conditioning,default,unique
+Ss_70_10_30_70,Reciprocating internal combustion engine,5.8.5,Local electricity generation systems,default,unique
+Ss_70_10_30_72,Reciprocating internal combustion engine driven alternating current generator systems,5.8.5,Local electricity generation systems,default,unique
+Ss_70_10_70_35,Grid-connected photovoltaic systems,5.8.5,Local electricity generation systems,default,unique
+Ss_70_10_70_82,Small-scale wind power generation systems,5.8.5,Local electricity generation systems,default,unique
+Ss_70_10_70_85,Stand-alone photovoltaic systems,5.8.5,Local electricity generation systems,default,unique
+Ss_70_30_35_30,High voltage supply systems,5.8.1,Electrical mains and sub-mains distribution,default,unique
+Ss_70_30_35_35,High voltage distribution systems,5.8.1,Electrical mains and sub-mains distribution,default,unique
+Ss_70_30_45_40,Low voltage supply systems,5.8.1,Electrical mains and sub-mains distribution,,unique
+Ss_70_30_45_45,Low voltage distribution systems,5.8.1,Electrical mains and sub-mains distribution,default,
+Ss_70_30_45_45,Low voltage distribution systems,8.7.4,Electricity distribution to external plant and equipment,,
+Ss_70_30_80_35,Hard-wired voltage small power systems,5.8.2,Power installations,default,unique
+Ss_70_30_80_45,Low voltage small power systems with prefabricated wiring,5.8.2,Power installations,default,unique
+Ss_70_80_25_05,Amenity lighting systems,8.7.9,External street lighting systems,default,unique
+Ss_70_80_25_70,Roadway lighting systems,8.7.9,External street lighting systems,default,unique
+Ss_70_80_33_12,Central battery supplied emergency lighting systems,5.8.3,Lighting installations,default,unique
+Ss_70_80_33_33,General lighting systems with prefabricated wiring,5.8.3,Lighting installations,default,unique
+Ss_70_80_33_35,Hard-wired general lighting systems,5.8.3,Lighting installations,default,unique
+Ss_70_80_33_92,Underwater lighting systems,5.8.4,Specialist lighting installations,default,
+Ss_70_80_33_92,Underwater lighting systems,8.7.9,External street lighting systems,,
+Ss_75_10_21_21,Data distribution systems,8.7.6,Telecommunications and other communication system connections,,
+Ss_75_10_21_21,Data distribution systems,5.12.1,Communication systems,default,
+Ss_75_10_21_88,Telecommunications systems,5.12.1,Communication systems,default,unique
+Ss_75_10_46_05,Audio-frequency induction-loop systems,5.12.1,Communication systems,default,unique
+Ss_75_10_46_42,Infrared listening systems,5.12.1,Communication systems,default,unique
+Ss_75_10_68_68,Public address systems,5.12.1,Communication systems,default,unique
+Ss_75_10_70_88,Television distribution systems,5.13.4,Specialist electrical/electronic installations,default,unique
+Ss_75_10_88_86,Swimming pool timing and scoring systems,5.13.4,Specialist electrical/electronic installations,default,unique
+Ss_75_40_02_05,Audio intercom systems,5.12.1,Communication systems,default,unique
+Ss_75_40_02_11,Card access control systems,5.12.2,Security systems,default,unique
+Ss_75_40_53_86,Surveillance systems,5.12.2,Security systems,default,unique
+Ss_75_40_75_40,Intruder detection and alarm systems,5.12.2,Security systems,default,unique
+Ss_75_50_11_05,Assistance call systems,5.12.1,Communication systems,default,unique
+Ss_75_50_11_27,Emergency voice communication systems,5.12.1,Communication systems,default,unique
+Ss_75_50_11_57,Nurse call systems,5.12.1,Communication systems,default,unique
+Ss_75_50_11_95,Voice alarm systems,5.12.1,Communication systems,default,unique
+Ss_75_50_28_05,Aspirating detection systems,5.12.1,Communication systems,default,unique
+Ss_75_50_28_29,Fire detection and alarm systems,5.12.1,Communication systems,default,unique
+Ss_75_50_28_30,Fixed gas detection and alarm systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_75_50_28_32,Flow sample gas detection and alarm systems,5.13.1,Specialist piped supply installations,default,unique
+Ss_75_50_28_96,Water leak detection and alarm systems,5.12.1,Communication systems,default,unique
+Ss_75_50_28_97,Water presence detection and alarm systems,5.12.1,Communication systems,default,unique
+Ss_75_70_52_03,Air to air heat pump control systems,5.5.1,Heat source,default,unique
+Ss_75_70_52_14,Climatic ceiling panels and beams control systems,5.6.5,Central heating and cooling,default,unique
+Ss_75_70_52_15,Combined heat and power control systems,5.5.1,Heat source,default,unique
+Ss_75_70_52_16,Constant volume air conditioning control systems,5.6.7,Central air conditioning,default,unique
+Ss_75_70_52_17,Cooling system control systems,5.6.3,Central cooling,default,unique
+Ss_75_70_52_28,Extract ventilation control systems,5.7.1,Central ventilation,default,unique
+Ss_75_70_52_29,Fan coil unit air conditioning control systems,5.6.7,Central air conditioning,default,unique
+Ss_75_70_52_33,Gas fired heating control systems,5.6.1,Central heating,default,unique
+Ss_75_70_52_36,Heating system control systems,5.6.1,Central heating,default,unique
+Ss_75_70_52_52,Mixed mode ventilation control systems,5.7.2,Local and special ventilation,,
+Ss_75_70_52_52,Mixed mode ventilation control systems,5.7.1,Central ventilation,default,
+Ss_75_70_52_56,Natural ventilation control systems,5.7.2,Local and special ventilation,default,unique
+Ss_75_70_52_70,Radiant heating control systems,5.6.1,Central heating,default,unique
+Ss_75_70_52_80,Smoke and heat detection extract control systems,5.7.3,Smoke extract/control,default,unique
+Ss_75_70_52_81,Smoke and heat detection shut down control systems,5.7.3,Smoke extract/control,default,unique
+Ss_75_70_52_85,Steam and condensate control systems,5.4.5,Steam and condensate distribution,default,unique
+Ss_75_70_52_93,Variable volume air conditioning control systems,5.6.7,Central air conditioning,default,unique
+Ss_75_70_52_94,Ventilation control systems,5.7.2,Local and special ventilation,,
+Ss_75_70_52_94,Ventilation control systems,5.7.3,Smoke extract/control,,
+Ss_75_70_52_94,Ventilation control systems,5.7.1,Central ventilation,default,
+Ss_75_70_52_96,Water supply control systems,5.4.2,Cold water distribution,default,
+Ss_75_70_52_96,Water supply control systems,5.4.1,Mains water supply,,
+Ss_75_70_52_96,Water supply control systems,5.4.3,Hot water distribution,,
+Ss_75_70_52_97,Water to air heat pump control systems,5.5.1,Heat source,default,unique
+Ss_75_70_54_10,Building monitoring and management systems,5.12.3,Central control/building management systems,default,unique
+Ss_75_70_54_25,Electricity metering systems,5.8.1,Electrical mains and sub-mains distribution,,
+Ss_75_70_54_25,Electricity metering systems,8.7.2,Electricity mains supply,default,
+Ss_75_70_54_30,Fuel metering systems,8.7.7,External fuel storage and piped distribution systems,default,
+Ss_75_70_54_30,Fuel metering systems,5.9.2,Fuel distribution systems,,
+Ss_75_70_54_95,Water metering systems,8.7.1,Water mains supply,,
+Ss_75_70_54_95,Water metering systems,5.4.1,Mains water supply,default,
+Ss_75_80_45_25,Earthing and bonding systems,5.8.6,Earthing and bonding systems,default,unique
+Ss_75_80_45_45,Lightning protection systems,5.11.3,Lightning protection,default,unique
+Ss_80_20_23_65,Pneumatic document conveying systems,5.10.9,Document handling systems,default,unique
+Ss_80_20_62_28,Escalator systems,5.10.2,Escalators,default,unique
+Ss_80_20_62_53,Moving walkway systems ,5.10.3,Moving pavements,default,unique
+Ss_80_30_25_30,Fixed rig suspended access systems,2.5.6,Facade access/cleaning systems,default,
+Ss_80_30_25_30,Fixed rig suspended access systems,2.3.6,Roof features,,
+Ss_80_30_25_32,Gantry access systems,2.5.6,Facade access/cleaning systems,,
+Ss_80_30_25_32,Gantry access systems,2.3.6,Roof features,default,
+Ss_80_30_25_35,Guided type fall arrest systems,2.5.6,Facade access/cleaning systems,,
+Ss_80_30_25_35,Guided type fall arrest systems,2.3.6,Roof features,default,
+Ss_80_30_25_50,Mobile rig monorail suspended access systems,2.5.6,Facade access/cleaning systems,default,
+Ss_80_30_25_50,Mobile rig monorail suspended access systems,2.3.6,Roof features,,
+Ss_80_30_25_52,Mobile rig tracked suspended access systems,2.5.6,Facade access/cleaning systems,default,
+Ss_80_30_25_52,Mobile rig tracked suspended access systems,2.3.6,Roof features,,
+Ss_80_30_25_55,Mobile rig trackless suspended access systems,2.5.6,Facade access/cleaning systems,default,
+Ss_80_30_25_55,Mobile rig trackless suspended access systems,2.3.6,Roof features,,
+Ss_80_30_25_75,Robotic cleaning systems,2.5.6,Facade access/cleaning systems,default,unique
+Ss_80_30_25_80,Single point anchorage fall arrest systems,2.5.6,Facade access/cleaning systems,,
+Ss_80_30_25_80,Single point anchorage fall arrest systems,2.3.6,Roof features,default,
+Ss_80_30_25_90,Travelling ladder access systems,2.5.6,Facade access/cleaning systems,default,
+Ss_80_30_25_90,Travelling ladder access systems,2.3.6,Roof features,,
+Ss_80_50_60_26,Electric lift systems,5.10.1,Lifts and enclosed hoists,default,unique
+Ss_80_50_60_39,Hydraulic lift systems,5.10.1,Lifts and enclosed hoists,,unique
+Ss_80_50_60_42,Inclined stairlift systems,5.10.4,Powered stairlifts,default,unique
+Ss_80_50_60_65,Powered homelift systems,5.10.1,Lifts and enclosed hoists,default,unique
+Ss_80_50_60_85,Step lift systems,5.10.4,Powered stairlifts,default,unique
+Ss_80_50_60_94,Vertical platform lift systems,5.10.1,Lifts and enclosed hoists,default,unique
