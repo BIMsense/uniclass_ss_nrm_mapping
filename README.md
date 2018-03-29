@@ -14,7 +14,7 @@ This table also identifies where a unique Uniclass System code to NRM code occur
 
 ## Planned improvements
 
-1. Add column headings to the table
+1. 
 
 ## How to contribute
 
